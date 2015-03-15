@@ -27,13 +27,17 @@ Meeting Minutes
 
 
 **Assignments for next week**
+
 *Everybody has to read the FAO report "Edible insects - Futures prospects for food and feed security" provided by Matthias on teambition*
  
 *everybody has to read the industrial_analysis reference*
 
 *Marie makes research about the food industry (and links it to insects) + future prospects (new technologies, needs)+ data about food shortages*
+
 *Iker make researches about the process of breeding and manufacturing insects*
+
 *Matthias explores the legislation and market on insects in Europe*
+
 *Melinda does it in Asia*
 
 
