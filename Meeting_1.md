@@ -25,6 +25,8 @@ Meeting Minutes
 
 **Discuss the topic and narrow it down**
 
+*After deciding that out topic would be food, we continue with a discussion to decide in which subtopic we should focus. The discussion concluded with an specific topic to be developed during this semester : Edible Insects. 
+We think that the Edible Insects are the answer for the problems of our future society. The human population is growing, and we have to start thinking on ways to generate enough food while being sustentable and ecologic.*
 
 **Assignments for next week**
 
