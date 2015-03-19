@@ -56,13 +56,16 @@ Meeting Minutes
 
 **Assignments for next week**
 
-*everybody has to read carefully the industrial_analysis reference*
-
-*Marie investigates on existing edible insects industry in Europe*
+*everybody has to read carefully the industrial_analysis reference (see on teambition)*
 
 *Matthias explores the legislation and market on insects in Europe*
 
 *Melinda and Max shall make our logic Model look nice*
+
+*Marie investigates on existing edible insects industry in Europe*
+
+*Iker, Matthias and Marie structure the references and make connections between them*
+
 ----------
 
 
