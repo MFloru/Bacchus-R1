@@ -24,23 +24,34 @@ Meeting Minutes
 *We won't use teambition to put our references for it is too heavy and we can dowload it from the internet anyway*
 
 **Logic Model**
+
 *Problem statement: Industrialization of insects as food*
+
 *Goal: Provide humanikind with a  healthy, sutainable and delicious source of food*
+
 *Discussion over our Logic Model* 
 
 **Narrowing our subject**
+
 *Maybe we should restrict our suject*
+
 *We must know about insect pocessing in the USA and Europe (already have information for Asia and Latin America)*
 *Side topics: history,...*
 
 **Discussion over references**
+
 *Guideline for writing an industrial Report => we really all have to read it to have an idea of how to analyze (which parts)*
 
 **Role assignment**
+
 *Matthias is responsible for public relations*
+
 *Max and Melinda are our designers*
+
 *Marie is responsible for the organization and paperwork ^^*
+
 *Iker is responsible for GitHub issues*
+
 *Still, each member will possibly work in category he is not responsible for*
 
 **Assignments for next week**
@@ -58,5 +69,5 @@ Meeting Minutes
 **DIGITAL SIGNATURES**
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
-| ------------- |----------------|----------------|----------------|
+|----------------|----------------|----------------|----------------|----------------|
 |Signed| Signed| Signed| Signed| Signed|
