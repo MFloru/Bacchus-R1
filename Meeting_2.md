@@ -36,6 +36,13 @@ Meeting Minutes
 **Discussion over references**
 *Guideline for writing an industrial Report => we really all have to read it to have an idea of how to analyze (which parts)*
 
+**Role assignment**
+*Matthias is responsible for public relations*
+*Max and Melinda are our designers*
+*Marie is responsible for the organization and paperwork ^^*
+*Iker is responsible for GitHub issues*
+*Still, each member will possibly work in category he is not responsible for*
+
 **Assignments for next week**
 
 *everybody has to read carefully the industrial_analysis reference*
@@ -44,9 +51,7 @@ Meeting Minutes
 
 *Matthias explores the legislation and market on insects in Europe*
 
-*Melinda*
-
-*Max*
+*Melinda and Max shall make our logic Model look nice*
 ----------
 
 
