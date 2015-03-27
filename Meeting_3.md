@@ -69,7 +69,7 @@ He also manages our relationships with the farmer and RISE*
 *Max should look at the other industries we can use ideas from regarding the processing of crickets into flour. We thought of the soy, wheat, shrimps industries.
 He shall also push our Logic Model written under _md format on the GMS 2015 repository*
 
-*Marie investigates on existing edible insects industry in Europe and post the minute meetings reports*
+*Marie looks at the benefits of insects and animals that ate insects for health and post the minute meetings reports*
 
 *Melinda shall explain with relevant and accurate arguments why we chose crickets, looking through the different references*
 
