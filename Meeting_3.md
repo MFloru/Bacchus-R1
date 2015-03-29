@@ -80,4 +80,4 @@ He shall also push our Logic Model written under _md format on the GMS 2015 repo
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| | | | Signed|Signed |
+| | Signed| | Signed|Signed |
