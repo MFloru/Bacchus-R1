@@ -36,18 +36,18 @@ Meeting Minutes
 
 *We will probably have to improve it later on*
 
-*We shall take a step further on our next meeting trying to create a Business Model Campus*
+*We shall take a step further on our next meeting trying to create a Business Model Canvas*
 
 
-**Other News** 
+**Other News**
 
-*Prof. KOO would like our work –and mostly Logic Model- to be presented as a reference for the Great Challenge*
+*Prof. KOO would like our work –and mostly Logic Model- to be presented as a reference for the Grand Challenge*
 
 *Zimmer provided us with good ideas. He shall be a very helpful counselor*
 
-*The RISE association would accept to hoist our material to breed insects in their greenhouse if it is not too big* 
+*The RISE association would accept to hoist our material to breed insects in their greenhouse if it is not too big*
 
-*The farmer we contacted would be interested in collaborating with us. We shall invite him in our repository and reflect more on what we can bring him*
+*Tiny Farms, a startup we contacted would be interested in collaborating with us. We shall invite him in our repository and reflect more on what we can bring him*
 
 
 
@@ -57,9 +57,9 @@ Meeting Minutes
 
 *Everybody looks at (and complete the agenda of) the next minute meeting*
 
-*Everybody should read the new files about the Great Challenge* 
+*Everybody should read the new files about the Great Challenge*
 
-*Everybody has to get knowledge and think on his own about the Business Model Campus we shall draw next meeting*
+*Everybody has to get knowledge and think on his own about the Business Model Canvas we shall draw next meeting*
 
 *Iker studies the current market of cricket flour (companies, localization, prices, customers,...)*
 
@@ -80,4 +80,4 @@ He shall also push our Logic Model written under _md format on the GMS 2015 repo
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| | Signed|Signed | Signed|Signed |
+| Signed| Signed|Signed | Signed|Signed |
