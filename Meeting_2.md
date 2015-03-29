@@ -73,4 +73,4 @@ Meeting Minutes
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-|Signed| Signed| Signed| Signed| Signed by myself|
+|Signed|Signed| Signed| Signed|Signed|
