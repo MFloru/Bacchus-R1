@@ -59,4 +59,4 @@ Reference : the progit pdf. Chapter 1 & 2 for basics. 3 for a visual description
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| |Signed |Signed | | |
+| |Signed |Signed |Signed | |
