@@ -22,6 +22,8 @@ Meeting Minutes
 
 *Create a Business Model Canvas (everybody has normally thought about it)*
 
+*Discuss what to keep from 2 alternative versions of the logic model, check whether everybody understands the logic relationships*
+
 
 **Use of Git**
 
@@ -32,6 +34,9 @@ Reference : the progit pdf. Chapter 1 & 2 for basics. 3 for a visual description
 - [ ] Atom
 - [ ] markdown language
 
+**Structure of the report**
+
+*Matthias made a draft of a structure of the report. This can, next to the logic model, help to guide us to invest our time and resources wisely. Let's discuss about this draft and check how it fits with the work we already did and want to do.*
 
 **Tasks Assignments for next week**
 
@@ -40,7 +45,7 @@ Reference : the progit pdf. Chapter 1 & 2 for basics. 3 for a visual description
 *Everybody looks at (and complete the agenda of) the next minute meeting*
 
 
-*Brain-stormings over “Possible other markets” overviewed by Matthias and maybe “Other industries we can use ideas from regarding the processing of crickets into flour” by Max. *
+*Brain-stormings over “Possible other markets” overviewed by Matthias (I don't think we need to do this) and maybe “Other industries we can use ideas from regarding the processing of crickets into flour” by Max. *
 
 *Melinda and Max will design our Business Model Canvas*
 
