@@ -24,7 +24,7 @@ Meeting Minutes
 
 *Decide on which insect we select*
 
-** Git**
+**Git**
 
 **Tasks Assignments for next week**
 
