@@ -88,3 +88,5 @@ last_updated: 4/1/2015
 *COMMENTS*
 ------------------------------------------
 *Put your comments here*
+*http://www.hcmealworm.com/about.php*
+That's the as far as I know largest producer of mealworms in the world. And believe, this is a huge factory, not a startup anymore. However, I still believe people in the West won't trust a Chinese mealworm manufacturer that fast, so still possibilities to grow them in Europe or USA. Can deliver dried mealworms at 10 $/kg.
