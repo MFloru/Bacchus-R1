@@ -29,7 +29,7 @@ Logic Model
 
 **Identifying the people**
 
-*team member, classmate, and people who related to insect community (startup, company, supplier, farmer, etc.)*
+*team member, classmate, and people related to insect community (startup, company, supplier, farmer, etc.)*
  
 
 **Identifying Outcomes**
