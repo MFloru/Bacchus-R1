@@ -16,18 +16,23 @@ last_updated: 03/27/2015
 
 Meeting Minutes
 ------
-*Next meeting:  ???*
-
-**News**
+*Next meeting:  Wednesday 8th, 9AM*
 
 **Discussions**
+*We shall finally decide on mealworms because they are quite easy to breed and there already exists farms and a plant producing them to feed animals*
 
-*Decide on which insect we select*
-
-**Git**
+*We should start to breed them in May*
 
 **Tasks Assignments for next week**
+* Everybody read (potentially correct) and sign this minute meeting
+* Everybody look at (and complete the agenda of) the next minute meeting
+* Everybody read chapters 3 and 6 of pro-git manual and learns about merging
+* Everybody download Atom
 
+* Marie starts writing on key drivers to grow the insect industry in the report
+* Max continues to thinks about a very general process for insects
+* Melinda reads the 3D printer example of report as well as the one on wine and chenges the structure of Matthias's draft
+* Matthias gives to Marie the printed version of the FAO report
 
 ----------
 
@@ -35,5 +40,5 @@ Meeting Minutes
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| | | | |Signed |
+| | | |Signed |Signed |
 
