@@ -8,7 +8,7 @@ last_updated: 03/27/2015
 
 |**Date** |**Meeting time**|**Meeting place**
 | ------------- |:----------------:|:-------:
-|April , 2015|  PM | place
+|April 8, 2015| 9 AM | Teaching Building 6
 
 
 ----------
@@ -21,9 +21,12 @@ Meeting Minutes
 **News**
 
 **Discussions**
+* Point on our current progress
+* Task assignment for next week
 
 **Tasks Assignments for next week**
-
+* Everybody read (potentially correct) and sign this minute meeting
+* Everybody look at (and complete the agenda of) the next minute meeting
 
 ----------
 
