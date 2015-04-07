@@ -72,7 +72,7 @@ However, European countries such as Belgium overcame this regulation, authorizin
 ######Standardization of insect products
 
 ######Industrialization of breeding process
-####Cricket (?) flour as a solution (1 page)
+####Mealworm flour as a solution (1 page)
 The reason why we choose to focus on one type of insect flour is that it adresses some of the key drivers : Acceptance in the West by disguising the original shape of an insect, standarization in order to make it possible to use it in lots of products and industrialization to lower the cost of insect food.
 
 (Also include a one page infographic with an overview of all information we explain in the next chapters)
