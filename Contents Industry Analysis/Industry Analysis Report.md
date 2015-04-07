@@ -42,8 +42,28 @@ S curve : maturity of the industry
 names of some key companies & research institutes
 ####Key drivers to grow the insect industry (2 pages)
 ######Acceptance among western people to eat insects
+Let us put the currently observed Western disgust towards insect consumption in a historical prospect.
+
+Agriculture was born in the Fertile Crescent, a region located in western Asia, ten thousand years ago before quickly spread to Europe. From a nomad hunter-gatherer way of life, men started to domesticate plant and animals to secure their food sources, thus became sedentary. 
+
+The domesticated animals were mainly large ones, not only because they were present in these regions but also because they could supply wool, leather, warmth, milk and strength (for farming or transportation) in addition to meat; what insects cannot. 
+Moreover, the seasonality of insects -especially in these non-tropical regions where most of them hibernate- added to the uncertainty of their supply made them an unreliable source of food for Westerners, and especially urban areas. 
+
+In parallel, along with the plant domestication, insects became a pest able to destroy entire harvests. This is one of the reasons why Westerners culturally associate all insects with nuisances. Examples such as mosquitos, ticks, fleas or flies able to transmit illnesses to humans; or termites eating the wood of their constructions only deepened Westerners’ aversion against insects. Not to mention the shapes of insects, seen as monstrous and repulsive by many a European.
+
+Westerners also rapidly associated insect consumption with some primitive behavior inherited from the hunting-gathering times, therefore despicable.
+
+Because of this historical and cultural background, disgust is the first reaction of many a European when suggested to eat insects. 
+But just as every social norm, it can be changed within some time.
 
 ######Legislative security
+In many countries, there is no regulation for insects as food and feed. This is one of the big barriers to insect mass-production. There are no international guidelines provided by the Codex Alimentaris (a database providing international reference standards for food and feed) either. 
+
+On the opposite, there are laws on maximum permissive levels of insect contamination in food products for humans such as grains.
+
+In EU, edible insects are considered as Novel Food because they were not consumed to a significant degree by Europeans before May 15, 1997. Therefore, the European Novel Food Regulation (EC n° 258/97) applies, restricting their trade as long as their safety has not been investigated.
+
+However, European countries such as Belgium overcame this regulation, authorizing 10 species to be commercialized.
 
 ######Basic academic research in insect properties and insect
 
