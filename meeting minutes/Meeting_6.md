@@ -16,7 +16,7 @@ last_updated: 03/27/2015
 
 Meeting Minutes
 ------
-*Next meeting:  Wednesday 15th, 9:30AM*
+*Next meeting:  Friday 10th, 4:15PM*
 
 **Discussions**
 *We shall focus on mealworm flour*
