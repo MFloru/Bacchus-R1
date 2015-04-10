@@ -3,22 +3,21 @@ layout: post
 title: "Weekly Summary for Bacchus"
 tags: [weekly, meeting, Iker, Matthias, Melinda, Marie, Max]
 description: Weekly meeting minutes for the team project.
-last_updated: 03/27/2015
+last_updated: 04/10/2015
 ---
 
 |**Date** |**Meeting time**|**Meeting place**
 | ------------- |:----------------:|:-------:
 |April 8, 2015| 9 AM | Teaching Building 6
 
-
 ----------
-
 
 Meeting Minutes
 ------
 *Next meeting:  Friday 10th, 4:15PM*
 
 **Discussions**
+
 *We shall focus on mealworm flour*
 *There are machines to process shrimp into flour that should be investigated by Max*
 *We shall discuss more about this product and the company that already commercialize it in the report (market size, prices, customers...). This is Matthias's part*
