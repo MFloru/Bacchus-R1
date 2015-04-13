@@ -45,6 +45,19 @@
 |http://greeinsect.ku.dk/phd-projects-edible-insects/pambo-kennedy-otieno/||academic reference, ||||
 |http://www.petfoodindustry.com/blogs/7-adventures-in-pet-food/post/4661-alternative-protein-sources-for-petfood-are-insects-the-answer||pet food, protein, market analysis||||
 |||||||
+|week 3||||||
+|http://futurefood2050.com/beefing-up-test-tube-meat/||five forces, market anysis||||
+|http://www.fao.org/docrep/015/i2490e/i2490e03a.pdf||world hunger, market analysis||||
+|http://www.madehow.com/Volume-2/Tofu.html||processing, technique,||||
+|http://www.gatesnotes.com/About-Bill-Gates/Future-of-Food||market anlysis, food in common||||
+|http://www.foodnavigator.com/Science/Meating-the-demand-The-future-of-meat-replacement-proteins||competitive products||||
+|https://badgerherald.com/news/2015/03/05/crunchy-yet-satisfying-grad-students-use-mealworms-to-solve-hunger-issues/||mealwormes||||
+|http://sustainability.wisc.edu/home-page-feature-photo/climate-quest-winner-announced/||climate quest||||
+|http://mighti.co/||climate quest||||
+|http://www.eurekalert.org/pub_releases/2015-02/uow-csl022615.php||mealwormes||||
+|http://futurefood2050.com/fighting-world-hunger-with-bugs/||crickets||||
+|||||||
+|week 4||||||
 |||||||
 |||||||
 |||||||
@@ -52,6 +65,23 @@
 |||||||
 |||||||
 |||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+
+|||||||
+
+
 
 
 
