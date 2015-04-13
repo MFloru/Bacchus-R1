@@ -3,12 +3,12 @@ layout: post
 title: "Presentation for Wednesday"
 tags: [presentation, status, , meeting, Melinda, Max]
 description:  meeting minutes for the team project.
-last_updated: 04/12/2015
+last_updated: 04/13/2015
 ---
 
 |**Date** |**Meeting time**|**Meeting place**
 | ------------- |:----------------:|:-------:
-|April 12, 2015| 9 AM | Zijing 12
+|April 15, 2015| 9 AM | teaching Building 6
 
 
 ----------
@@ -21,7 +21,11 @@ Meeting Minutes
 **News**
 
 **Discussions**
-* content of the slides
+* finalisation of the slides
+* Discussion over our advances on meeting minute 6 tasks
+
+**Tasks**
+
 
 
 ----------
@@ -30,4 +34,4 @@ Meeting Minutes
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| | |Signed | | signed|
+| | | | | |
