@@ -58,10 +58,10 @@
 |http://futurefood2050.com/fighting-world-hunger-with-bugs/||crickets||||
 |||||||
 |week 4||||||
+|http://onlinelibrary.wiley.com/doi/10.1002/mnfr.201200735/epdf||protein, insects, ingredients, risk||||
+|http://www.foodnavigator-usa.com/R-D/Tiny-Farms-Edible-insects-will-be-be-mainstream-in-future?nocount||cicket flour, processing, process||||
 |||||||
-|||||||
-|||||||
-|||||||
+|week 5||||||
 |||||||
 |||||||
 |||||||
