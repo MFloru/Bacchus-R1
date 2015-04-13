@@ -62,15 +62,15 @@
 |http://www.foodnavigator-usa.com/R-D/Tiny-Farms-Edible-insects-will-be-be-mainstream-in-future?nocount||cicket flour, processing, process||||
 |||||||
 |week 5||||||
+|http://cordis.europa.eu/project/rcn/105074_en.html|Enabling the exploitation of Insects as a Sustainable Source of Protein for Animal Feed and Human Nutrition|study, scientific||||
+|http://www.sciencedirect.com/science/article/pii/S0950329314001554#|Profiling consumers who are ready to adopt insects as a meat substitute in a Western society|study, scientific, market analysis||||
+|http://www.mangeons-des-insectes.com/boutique||example, mealwormes, crickets||||
+|http://www.ipsnews.net/2013/07/edible-insect-market-hindered-by-legal-and-cultural-barriers-in-spain/||example||||
+|http://onlinelibrary.wiley.com/doi/10.1111/1541-4337.12014/full||legal issues, risk||||
+|http://www.cricketflours.com/||example||||
+|http://insecteurope.com/index.php||example||||
 |||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
+|week 6||||||
 |||||||
 |||||||
 |||||||
