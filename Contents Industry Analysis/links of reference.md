@@ -71,8 +71,8 @@
 |http://insecteurope.com/index.php||example||||
 |||||||
 |week 6||||||
-|||||||
-|||||||
+|https://wiseguyreports.com/||market research, market analysis, china, price, consumtion||||
+|http://www.alibaba.com/mealworm-manufacturers.html||example||||
 |||||||
 |||||||
 |||||||
