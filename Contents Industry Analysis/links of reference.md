@@ -3,6 +3,7 @@
 
 |**Link** |**Titel**|**tag**|**Author**|**year**|**marks**|
 |--- |---|---|---|---|---|
+|Week 1||||||
 |http://www.fao.org/docrep/018/i3253e/i3253e00.htm|"Edible insects Future prospects for food and feed security"|general, report, insects|FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS|2013|-|
 |https://cisr.ucr.edu/pdf/edible-forest-inescts.pdf#page=10|Edible forest insect|general, compendium, insects||||
 |http://www.lonelyplanet.com/mexico/oaxaca-state/travel-tips-and-articles/the-10-tastiest-insects-and-bugs-in-mexico|The 10 tastiest insects and bugs in Mexico|insects bugs, mexico, article|Lonlyplanet|2014||
@@ -24,6 +25,36 @@
 |http://www.fooddive.com/news/5-food-companies-betting-on-the-bug-business/152338/|5 food companies betting on the bug business|example, market anlysis, article||||
 |https://www.youtube.com/watch?v=O6GimGZz6a8&spfreload=10|Marcel Dicke why not eat bugs|TED video||||
 |||||||
+|Week 2||||||
+|http://www.fooddive.com/news/5-food-companies-betting-on-the-bug-business/152338/||competition, processing, technique, ||||
+|http://www.wageningenur.nl/nl/show/Insects-to-feed-the-world.htm|Insects to feed the world|academic reference, ||||
+|http://www.wageningenur.nl/en/Expertise-Services/Chair-groups/Plant-Sciences/Laboratory-of-Entomology/Edible-insects.htm||"||||
+|http://www.wageningenacademic.com/jiff||journal||||
+|http://www.huffingtonpost.com/neil-parmar/aspire-food-group-hult-prize_b_3982374.html|article, food, world hunger|huffingtionpost||||
+|http://insectsftw.org/||"||||
+|http://www.technologyreview.com/news/529756/insect-farming-is-taking-shape-as-demand-for-animal-feed-rises/||article|MIT, technologiereview|||
+|http://www.foodinsectsnewsletter.org/||newsletter||||
+|http://insectpoint.webs.com/||buisiness development||||
+|http://www.allthingsbugs.com/||cricket flour company||||
+|http://www.bbc.com/future/story/20141014-time-to-put-bugs-on-the-menu||Movie, documentary|BBC|||
+|http://futurefood2050.com/us-cricket-farming-scales-up/#comment-11454||tinyfarms, article||||
+|http://www.nextmillenniumfarms.com/||food problem, hunger||||
+|http://ec.europa.eu/food/food/biotechnology/novelfood/initiatives_en.htm||legal issues||||
+|https://www.youtube.com/watch?v=GekDjhpnTU4||food problem, hunger||||
+|http://www.academia.edu/5642412/Forest_Insect_Industry_in_Collaborative_Forest_Management_An_Overview||||||
+|http://greeinsect.ku.dk/phd-projects-edible-insects/pambo-kennedy-otieno/||academic reference, ||||
+|http://www.petfoodindustry.com/blogs/7-adventures-in-pet-food/post/4661-alternative-protein-sources-for-petfood-are-insects-the-answer||pet food, protein, market analysis||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+
+
+
 
 
 
