@@ -1,4 +1,3 @@
----
 layout: post
 title: "Presentation for Wednesday"
 tags: [presentation, status, , meeting, Melinda, Max]
@@ -8,7 +7,7 @@ last_updated: 04/15/2015
 
 |**Date** |**Meeting time**|**Meeting place**
 | ------------- |:----------------:|:-------:
-|April 15, 2015| 9 AM | teaching Building 6
+|April 22, 2015| 9 AM | teaching Building 6
 
 
 ----------
@@ -16,17 +15,16 @@ last_updated: 04/15/2015
 
 Meeting Minutes
 ------
-*Next meeting:  Wednesday April 22, 9AM*
+*Next meeting:  ???*
+
+**News**
 
 **Discussions**
-* finalisation of the slides
 * Discussion over our advances on meeting minute 6 tasks => everything is postponed to next week
-* We should start to look at what we need to grow mealworms
+* Discussion over what we need to grow mealworms
 
 **Tasks**
-* See tasks on meeting 6 for more details
-* Marie reports to Matthias on Sunday
-* Matthias has a look to what is needed to grow mealworms so that we can do it
+
 
 ----------
 
@@ -34,4 +32,4 @@ Meeting Minutes
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| | | | |signed |
+| | | | | |
