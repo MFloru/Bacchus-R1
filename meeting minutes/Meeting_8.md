@@ -25,8 +25,8 @@ Meeting Minutes
 
 **Tasks**
 * See tasks on meeting 6 for more details
-* Marie reports to Matthias on Sunday
-* Matthias has a look to what is needed to grow mealworms so that we can do it
+* Marie reports to Matthias on Sunday and give him back the paper version of FAO report
+* Matthias has a look to what is needed to grow mealworms so that we can do it and prepare a debrief on it for next meeting
 
 ----------
 
@@ -34,4 +34,4 @@ Meeting Minutes
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| | | | |signed |
+| | | | Signed |signed |
