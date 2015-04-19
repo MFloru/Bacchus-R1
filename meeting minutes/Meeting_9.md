@@ -18,10 +18,13 @@ Meeting Minutes
 *Next meeting:  ???*
 
 **News**
+* Marie summarized all the mealworms information in the FAO report (see corresponding files on Teambition and GitHub
 
 **Discussions**
-* Discussion over our advances on meeting minute 6 tasks => everything is postponed to next week
-* Discussion over what we need to grow mealworms
+* Discussion over our advances on meeting minute 6 tasks
+* Preparation of Benn Koo meeting (structure of our report, ways of gathering information
+* Discussion over the new assignments for GMS class
+* Discussion over what we need to grow mealworms and if we actually start it (and when?)
 
 **Tasks**
 
