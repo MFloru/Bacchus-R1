@@ -1,8 +1,9 @@
+---
 layout: post
-title: "Presentation for Wednesday"
-tags: [presentation, status, , meeting, Melinda, Max]
-description:  meeting minutes for the team project.
-last_updated: 04/19/2015
+title: "Weekly Summary for Bachus"
+tags: [weekly, meeting, Iker, Matthias, Melinda, Marie]
+description: Weekly meeting minutes for the team project.
+last_updated: 04/20/2015
 ---
 
 |**Date** |**Meeting time**|**Meeting place**
@@ -21,17 +22,17 @@ Meeting Minutes
 * 
 
 **Discussions**
-* Discussion over our advances on meeting minute 6 tasks 
+* layout and outline presentation (last modifications)
+
 * Max's debrief on his point on industrialization
-* Discussion on Ben Koo's meeting
-* Discussion over what we need to grow mealworms and if we actually start it (and when?)
+
+* Discussion over what we need to grow mealworms and if we actually start it (and when?) - Matthias
 
 **Tasks**
-*
-*
-*
-*
-*
+* Matthias
+* Max
+* Melinda
+* Iker
 
 
 ----------
