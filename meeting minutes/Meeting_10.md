@@ -23,7 +23,7 @@ Meeting Minutes
 
 *What's the format for references (in markdown)*
 * There is no specific markdown code for it. Just import it from Word and put the authors in bold letters
-* We should have a look at "Cite this for me" my website
+* We can also use the "Cite this for me" website (https://www.citethisforme.com/fr)
 
 *How is our current report organization? Shall we merge it with parts ideas from the FAO report?*
 *Is our logic model ok or shall we improve it again? If so, how?*
@@ -41,6 +41,13 @@ Meeting Minutes
 * We shall need to address the 4 forces (Matthias shall correct the structure of the report accordingly)
 * We shall add some content related to our reading assignements (namely Clockspeed and 3T) and add references towards it
 
+*cf Ben Koo's message on Teambition about the outline and rough layout content of we have to show on Wednesday:*
+
+* 1. A listing of various fonts and other specifications, such as font sizes, colors, and page with specification.
+* 2. A set of diagrams to be shown in different sections. 
+* 3. A set of pictures, QR Codes, and video link samples that could be used in the paper.
+* 4. The final section on references, how you plan to manage the references, and show some of the existing references that you already picked out.
+
 *Other*
 
 * We shall have to make our topic more globalized, studying the legislation on goods transportation across countries (import/export)
@@ -52,7 +59,7 @@ Meeting Minutes
 **Tasks TO HAVE COMPLETED BY NEXT WEDNESDAY**
 * Everybody puts the relevant data for Melinda on a specific Teambition file (the first who wants to use it creates it)
 
-* Melinda prepares the layout of our report (under Word?): headlines (green?) + cover page + 1-page summary (cf picture she took) + table of contents + general format for our diagrams + references with a column for QR codes (provided by Marie & Iker) + possibly, a page with big white insects so that we can add general data on it.
+* Melinda prepares the layout of our report -cf Benn Koo's message- (under Word?): headlines (green?) + cover page + 1-page summary (cf picture she took) + table of contents + general format for our diagrams + references with a column for QR codes (provided by Marie & Iker) + possibly, a page with big white insects so that we can add general data on it.
 
 * Iker checks and makes QR codes out of Marie’s references from FAO report (target the most important ones, maybe?) + pictures + diagrams numbers (?) and adds them on the Teambition file
 
