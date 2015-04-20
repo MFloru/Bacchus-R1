@@ -1,12 +1,12 @@
 
 ---
 
-|#|**Link** |**Titel**|**tag**|**Author**|**year**|**marks**|
+|#|**Link** |**Titel**|**tag**|**Author**|**year**|**QR**|
 |---|--- |---|---|---|---|---|
 ||Week 1||||||
-|1|http://www.fao.org/docrep/018/i3253e/i3253e00.htm|"Edible insects Future prospects for food and feed security"|general, report, insects|FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS|2013|-|
-|2|https://cisr.ucr.edu/pdf/edible-forest-inescts.pdf#page=10|Edible forest insect|general, compendium, insects||||
-|3|http://www.lonelyplanet.com/mexico/oaxaca-state/travel-tips-and-articles/the-10-tastiest-insects-and-bugs-in-mexico|The 10 tastiest insects and bugs in Mexico|insects bugs, mexico, article|Lonlyplanet|2014||
+|1|http://www.fao.org/docrep/018/i3253e/i3253e00.htm|"Edible insects Future prospects for food and feed security"|general, report, insects|FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS|2013|-<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2Fwww.fao.org%2Fdocrep%2F018%2Fi3253e%2Fi3253e00.htm&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />|
+|2|https://cisr.ucr.edu/pdf/edible-forest-inescts.pdf#page=10|Edible forest insect|general, compendium, insects|||<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fcisr.ucr.edu%2Fpdf%2Fedible-forest-inescts.pdf%23page%3D10&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />|
+|3|http://www.lonelyplanet.com/mexico/oaxaca-state/travel-tips-and-articles/the-10-tastiest-insects-and-bugs-in-mexico|The 10 tastiest insects and bugs in Mexico|insects bugs, mexico, article|Lonlyplanet|2014|<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2Fwww.lonelyplanet.com%2Fmexico%2Foaxaca-state%2Ftravel-tips-and-articles%2Fthe-10-tastiest-insects-and-bugs-in-mexico&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />|
 |4|http://journals.cambridge.org/download.php?file=%2FPNS%2FPNS56_03%2FS0029665197000463a.pdf&code=dd7003abddac5e9e3d961c531b3262e2 |Food industry, nutrition and public health |journal, technique, preservation, processing matrix,  |cambridge|1997||
 |5|http://www.un.org/en/globalissues/food/||webpage, summary, food in general, market analysis|UN|||
 |6|ftp://ftp.fao.org/docrep/fao/004/y3557e/y3557e.pdf||food prospects|||Table of content on page 7 , “The projections at a glance” on page 9 (= pages 19-20 on the PDF)|
