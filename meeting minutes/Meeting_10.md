@@ -59,9 +59,9 @@ Meeting Minutes
 **Tasks TO HAVE COMPLETED BY NEXT WEDNESDAY**
 * Everybody puts the relevant data for Melinda on a specific Teambition file (the first who wants to use it creates it)
 
-* Melinda prepares the layout of our report -cf Benn Koo's message- (under Word?): headlines (green?) + cover page + 1-page summary (cf picture she took) + table of contents + general format for our diagrams + references with a column for QR codes (provided by Marie & Iker) + possibly, a page with big white insects so that we can add general data on it.
+* Melinda prepares the layout of our report -cf Benn Koo's message- (under Word?): headlines (green?) + cover page +  1-page summary (cf picture she took) + table of contents + logic model page (important to include it at the beginning of the report) + general format for our diagrams + references with a column for QR codes (provided by Marie & Iker) + possibly, a page with big white insects so that we can add general data on it. Maybe we can have such a big white shape insects on a pale green font as our font?
 
-* Iker checks and makes QR codes out of Marie’s references from FAO report (target the most important ones, maybe?) + pictures + diagrams numbers (?) and adds them on the Teambition file
+* Iker checks and makes QR codes out of Marie’s references from FAO report (target the most important ones, maybe?) + pictures + diagrams numbers (?) and adds them on the Teambition file. We can also make QR-code towards videos (the BBC one and/or the TED Talk in our references for example)
 
 * Matthias corrects the current template adding parts about the 4 forces (law, technology, market analysis, norm-culture) + looks for pictures and add them on the Teambition file
 
