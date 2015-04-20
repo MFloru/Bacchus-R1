@@ -1,8 +1,9 @@
+---
 layout: post
-title: "Presentation for Wednesday"
-tags: [presentation, status, , meeting, Melinda, Max]
-description:  meeting minutes for the team project.
-last_updated: 04/19/2015
+title: "Weekly Summary for Bachus"
+tags: [weekly, meeting, Iker, Matthias, Melinda, Marie]
+description: Weekly meeting minutes for the team project.
+last_updated: 04/20/2015
 ---
 
 |**Date** |**Meeting time**|**Meeting place**
