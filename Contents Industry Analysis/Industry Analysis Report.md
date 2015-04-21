@@ -9,7 +9,7 @@
 <h3 id="topics-currently-under-investigation">Topics currently under investigation</h3>
 <h4 id="-edible-insects-and-global-food-security-"><em>Edible insects and global food security</em></h4>
 <p>(Melinda)</p>
-<h4 id="-cultural, ecological and legal issues-"><em>Cultural, ecological and legal issues</em></h4>
+<h4 id="-cultural, ecological, health and legal issues-"><em>Cultural, ecological, health and legal issues</em></h4>
 <p>(Marie)</p>
 <h4 id="-mealworm-flour-market-"><em>Mealworm flour market</em></h4>
 <p>(Iker)</p>
@@ -17,8 +17,6 @@
 <p>(Matthias)</p>
 <h4 id="-industrial-processes-"><em>Industrial processes</em></h4>
 <p>(Max)</p>
-<h4 id="-mealworm-flour-health-benefits-"><em>Mealworm flour health benefits</em></h4>
-<p>(Marie)</p></body>
 
 ###**Report Overview**
 
