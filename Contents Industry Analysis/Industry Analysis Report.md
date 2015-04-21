@@ -9,8 +9,8 @@
 <h3 id="topics-currently-under-investigation">Topics currently under investigation</h3>
 <h4 id="-edible-insects-and-global-food-security-"><em>Edible insects and global food security</em></h4>
 <p>(Melinda)</p>
-<h4 id="-industrialized processes for mealworms-"><em>Industrialized processes for mealworms</em></h4>
-<p>(Max)</p>
+<h4 id="-cultural, ecological and legal issues-"><em>Cultural, ecological and legal issues</em></h4>
+<p>(Marie)</p>
 <h4 id="-mealworm-flour-market-"><em>Mealworm flour market</em></h4>
 <p>(Iker)</p>
 <h4 id="-mealworm-flour-competing-markets-"><em>Mealworm flour competing markets</em></h4>
