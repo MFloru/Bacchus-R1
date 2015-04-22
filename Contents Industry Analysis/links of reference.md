@@ -73,7 +73,7 @@
 ||week 6|||||||
 |59|https://wiseguyreports.com/||market research, market analysis, china, price, consumtion|||||
 |60|http://www.alibaba.com/mealworm-manufacturers.html||example|||||
-
+|61|http://www.nestle.de/zukunftsstudie/10-trends-der-ernaehrung-der-zukunft||german page of nestle who produced an report about food in 2030 and stating that: "Although the idea of algae or insects so far seems hard to imagine as an integral part of our diet, see the study participants this possibility in the future quite 52 percent of respondents can be friends with this idea, as a result of resource-saving nutrition in a value-oriented society. While there are today in much of the German population nor cultural reservations about eating certain foods that are eaten like in some regions of Africa and Asia because of the high content of protein. But in 2030 it will be possible in this country, as long as the products have a dosage form that is reminiscent of familiar dishes and not insects."|||||
 
 
 
