@@ -44,7 +44,7 @@ Meeting Minutes
 *cf Ben Koo's message on Teambition about the outline and rough layout content of we have to show on Wednesday:*
 
 * 1. A listing of various fonts and other specifications, such as font sizes, colors, and page with specification.
-* 2. A set of diagrams to be shown in different sections. 
+* 2. A set of diagrams to be shown in different sections.
 * 3. A set of pictures, QR Codes, and video link samples that could be used in the paper.
 * 4. The final section on references, how you plan to manage the references, and show some of the existing references that you already picked out.
 
@@ -78,4 +78,4 @@ Meeting Minutes
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| | | | Signed | |
+|Signed | | | Signed | |
