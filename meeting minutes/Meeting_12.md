@@ -16,7 +16,7 @@ last_updated: 04/20/2015
 
 Meeting Minutes
 ------
-*Next meeting:  ???*
+*Next meeting:  Wednesday*
 
 **News**
 * keep indesign as our software to design the industrial report
@@ -25,6 +25,8 @@ Meeting Minutes
 
 * new aim: Substitution of traditional food with insects ( tags: health, clear, ecological, transparent, affortable)
 
+* 
+
 
 **Discussions**
 * layout colors
@@ -32,6 +34,10 @@ Meeting Minutes
 * what is our aim?
 
 * how to integrate QR-code and blogchain (maybe for tracking food and ensuring the quality of the final product)
+
+* clean design for the content
+
+* cover page: black/white picture , good cite 
 	
 
 **Tasks**
