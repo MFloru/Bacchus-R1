@@ -33,6 +33,20 @@ In 2013, this market had an estimated size of 3.2 billion $ worldwide. Today, 80
 
 In the USA, tofu sells for about 4 $/kg . Vegie sausages sell for 12 $/kg and vegie burgers sell for about 6 $/kg (Indiana Soybean Board).
 
+#####processed meat
+Although meatproducts made from mealworm flour can theoretically replace any meat, their most direct concurrents are processed meats. A product based on mealworm flour can substitute a processed meat product, while there is still a difference between a steak and a mealwormburger. A short overview of the size of the processed meat industries is given here.
+#####sausages
+Business Analytic Center calculated the total European sausage production totalling 5,3 million ton at a market size of 19,5 billion euro(BAC). It's a highly fragmentated market with individual tastes that differ seriously among countries.
+The US market of sausages and other processed meat products totalled 20,4 billion $ in 2009(Dun & Bradstreet).
+
+ResearchMoz gives the current issues impacting this market : health, product quality, freshness and the search of new flavors and ethnic compatible products(ResearchMoz). A transparant production process of mealworm flour as main ingredient in a sausage can adress most of these issues.
+
+#####burgers
+
+
+
+
+
 #####Sports supplements
 
 Sports supplements is quite a big market encompassing all bars, powders, drinks and alike that people eat or drink in addition to their normal diet to help their sport performance. Historically, the main customers of this market were young male adults wanting to grow their muscles faster after power workouts. However, more and more this market is becoming diversified and targets now all kinds of people who are doing sports to improve their health. Important in these products is that they contain exact amounts of  the additional nutrition people want. This means a simple insect powder would probably not be able to become a resource for this market. But, if it is possible to extract the proteins and omega 3 and 6 fatty acids insects are rich of, they could become a resource for this industry.
@@ -47,15 +61,17 @@ Another possible market for mealworm flour is the use in petfood. That will be b
 
 The current total global market of animal feed has a size of 370-500 billion $ per year (IFIF,Alltech). This results in almost 1 billion ton of feed per year. The main categories of animal feed are feed for poultry(444 million ton), pig(243 million ton),ruminant animals(including cow and sheep)(196 million ton), fish feed(40 million ton) and pet food(21 million ton) (alltech). The lower amount of feed for ruminant animals is due to the fact that they are still today mostly fed on pasture from grasslands.
 
-Most animals grown for human consumption ned a proteine rich diet to grow. Therefore, corn and soy as proteine rich grains, are the most popular animal feed. In addition, animals need sometimes animal protein to supply them with necessary amino acids. Fish meal is the most popular animal protein feed.The overreliance on grain-based animal feeds in industrial food animal production has negative consequences for animal health, the environment, and even human health(sustainable table).
+Most animals grown for human consumption ned a proteine rich diet to grow. Therefore, corn and soy as proteine rich grains, are the most popular animal feed. In addition, animals need sometimes animal protein to supply them with necessary amino acids. Fish meal is the most popular animal protein feed.The overreliance on grain-based animal feeds in industrial food animal production has negative consequences for animal health, the environment, and even human health(sustainable table). Grains for animal feed use 40% of total land use in agriculture(Kathryn Redford).
+
+A good start to learn something about insects for feed is the Kathryn Redford TedX talk 'what to feed our food' (TedX).
 
 Makkar et al. give the state of the art of insects used as animal feed. 5 species of insects are promising as their nutritional quality is rougly comparable with current soy and fishmeal : black soldier fly larvae, the house fly maggots,
-mealworm, locusts–grasshoppers–crickets, and silkworm. The insects themselves can be fed by biological waste. In that case, they help towards a world with less waste while at the same time depleting less natural resources as traditional feed. Off course, a process that can ensure that the waste is not contaminated needs to be developed for such applications. 25-100% of traditional animal feed can be replaced by insects, depending on the insect and animal species. As supply of insects is nowadays still very small, poultry and fish feed will be the easiest to start supplying insect feed to. Other animals require a large supply of feed before they can switch to a new feed source.
+mealworm, locusts–grasshoppers–crickets, and silkworm. The insects themselves can be fed by biological waste. In that case, they help towards a world with less waste while at the same time depleting less natural resources as traditional feed. Off course, a process that can ensure that the waste is not contaminated needs to be developed for such applications. Nowadays, European law does not allow to feed animals on waste. These regulations are a relict of the 1990s BSE crisis(BBC). 25-100% of traditional animal feed can be replaced by insects, depending on the insect and animal species. As supply of insects is nowadays still very small, poultry and fish feed will be the easiest to start supplying insect feed to. Other animals require a large supply of feed before they can switch to a new feed source.
 Data of mealworms used in animal feed is not yet widespread. It could replace feed for chickens if supplemented with methionine. If only 10% of chicken feed is replaced by mealworms, no supplementary products are needed. A case for catfisch is investigated with the result that 40% of the feed can be replaced by mealworms(Makkar et al.).
 
 Price levels to compete on were about 500$ per ton of chicken or pig feed in 2013(Alltech). However, especially in the poultry industry, fishmeal is nowadays a very important part of the diet for chickens. 20% of all fish caught worldwide is used in fishmeal. Due to the deterioration of the marine environment, the price of fishmeal is increasing. In 2010, that price was 2000$ per ton, a much more comfortable price to compete on for insects(Sánchez-Muros et al.).
 
-The industry of insects for animal feed is still small but already more advanced than the industry of insects for human consumption. Some companies are already for years in the business and produce insects on industrial scale. Haocheng Mealworm Inc. is the biggest mealworm producer known and produces 50 tons of mealworms per month of which 200 tons per year are exported(http://www.hcmealworm.com/).
+The industry of insects for animal feed is still small but already more advanced than the industry of insects for human consumption. Some companies are already for years in the business and produce insects on industrial scale. Haocheng Mealworm Inc. is the biggest mealworm producer known and produces 50 tons of mealworms per month of which 200 tons per year are exported(http://www.hcmealworm.com/). Other companies producing different kinds of insects for animal feed are  : AgriProtein(South Africa), Enterra Feed Corporation (Canada), Envirflight(USA), Ynsect(France), Protix Biosystems(The Netherlands). (BBC)
 
 
 #####Pet food
