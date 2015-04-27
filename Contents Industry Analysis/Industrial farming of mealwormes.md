@@ -1,4 +1,4 @@
-##state of the art
+
 
 ###reference
 	
@@ -7,6 +7,10 @@
 	+ http://www.sialis.org/raisingmealworms.htm
 	+ http://www.exoticnutrition.com/howtorame.html
 	+ http://www.wikihow.com/Raise-Mealworms (very good, maybe qr code link)
+	
+	+future tools https://www.youtube.com/watch?v=qBETTlG_NMg
+	+http://de.123rf.com/footage_23464153_.html
+	+http://de.123rf.com/footage_23464152_stock-footage.html
 
 ###state of the art
 
@@ -14,6 +18,8 @@
 	+ describe the cycle of farming mealwormes
 		+desinfection
 	+ 
+	
+	
 	
 ###improvements through industrialization	
 	
@@ -23,6 +29,11 @@
 	+
 	
 ###possible tools to be used
+
+	+gloves and hygene articles
+	+humidity and tempreture semsor
+	+shaking grids to with different seize to cut off the "bycatch"
+	
 	
 	
 	
