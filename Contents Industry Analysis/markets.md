@@ -18,9 +18,7 @@ Meat in general
 
 for animals :
 
-Chicken feed
-
-Fish feed
+Animal feed
 
 Pet food
 
@@ -41,8 +39,14 @@ The US market of sausages and other processed meat products totalled 20,4 billio
 
 ResearchMoz gives the current issues impacting this market : health, product quality, freshness and the search of new flavors and ethnic compatible products(ResearchMoz). A transparant production process of mealworm flour as main ingredient in a sausage can adress most of these issues.
 
-#####burgers
+#####ground beef : burgers and meatballs
 
+The global market for beef is expected to reach USD 2,151 billion by 2020(GrandViewResearch). In 2012, 67400 kilo tons of beef was produced. Of that, 43,9% or 29500 kilo ton was sold as ground beef.
+The retail price of a burger in the USA is historically high due to the lowest cattle herd in 60 years and not helped by environmental problems such as the drought in Texas(MarketWatch). The retail price of a kilo of ground beef in american supermarkets reached 9,15 $(AGWeb).
+
+Cheaper burgers, containing more fat and other health affecting ingredients are still widespread. This is one of the main reasons that poor people in developed countries have a higher chance to be fat. However, the general public can react severely when they discover that inferior ingredients are used in their burgers, as the recent horsemeat scandal showed(the guardian). An in depth article about cheap burgers can be found at : http://www.theguardian.com/commentisfree/2013/jan/24/cost-cheap-burger-higher-12p
+
+A burger made of mealworm flour with transparent ingredients, nutritional content and production process can be competitive on this market. It will first attract part of the people who eat high quality burgers. If economies of scale grow and price goes down, it can even play a big role on the cheap burger market as it will be a way more healthy alternative for such cheap burgers.
 
 
 
