@@ -95,12 +95,6 @@ The dependence of agriculture source of food is what makes the distribution of f
 <p>5.	Livelihood and economic improvement: insect gathering and rearing as minilivestock at the household level or industrial scale can offer important livelihood opportunities for people in both developing and developed countries. It also can offer employment and cash income, for example in developing countries in Southern and Central Africa and Southeast Asia, the process of insect gathering, rearing and processing is easily within reach of small-scale enterprises. </p>
 
 
-<h4 id="-Mealworm-"><em>Mealworm</em></h4>
-
-<p>There are thousands of insect’s species around the world and more than 1900 species have reportedly been used as food. Globally, the most common insects consumed are beetles (Coleoptera). This is not surprising given that the group contains about 40% of all known insect species. The insect family has a great number in terms of species. The figure below shows the number of insect species, by order, consumed worldwide (Huls, et al., 2013).</p>
-<p> As can be seen in the graph above, the difference of the insect quantity consumed worldwide is quite big in the coleopteran order. This brings an interest for us to narrow our focus on coleopteran order, which is beetle. Another interesting fact occurs as we learn more about beetle; it turns out mealworm that is already quite famous as an exotic food, is a larval form of beetle.  There are quite numbers of information and articles about mealworm as food, which indicating that some people already acknowledge it as food; thus it brings positive advantage to our projects. Not only mealworm wins in quantity and fame, it is also contain high nutrition (dried): 46-53% protein, 28% fat, 6% fiber, 5% water, environmentally safe, simple production process (we believe so because it’s small and have no hard shell like beetle), and better yet- have a short life cycle. This is why we believe that mealworm will be a best candidate for a further study. </p>
-
-
 ###Short overview of the insect industry today (1 page)
 infographic with following list of information(not yet exhaustive) *under the form of white bugs*
 
@@ -152,6 +146,12 @@ Are quite prohibitive at the moment because the industry in not mature yet -no a
 
 ###Focus on mealworms
 ####Presentation
+
+<h4 id="-Mealworm-"><em>Mealworm</em></h4>
+
+<p>There are thousands of insect’s species around the world and more than 1900 species have reportedly been used as food. Globally, the most common insects consumed are beetles (Coleoptera). This is not surprising given that the group contains about 40% of all known insect species. The insect family has a great number in terms of species. The figure below shows the number of insect species, by order, consumed worldwide (Huls, et al., 2013).</p>
+<p> As can be seen in the graph above, the difference of the insect quantity consumed worldwide is quite big in the coleopteran order. This brings an interest for us to narrow our focus on coleopteran order, which is beetle. Another interesting fact occurs as we learn more about beetle; it turns out mealworm that is already quite famous as an exotic food, is a larval form of beetle.  There are quite numbers of information and articles about mealworm as food, which indicating that some people already acknowledge it as food; thus it brings positive advantage to our projects. Not only mealworm wins in quantity and fame, it is also contain high nutrition (dried): 46-53% protein, 28% fat, 6% fiber, 5% water, environmentally safe, simple production process (we believe so because it’s small and have no hard shell like beetle), and better yet- have a short life cycle. This is why we believe that mealworm will be a best candidate for a further study. </p>
+
 Pictures of mealworms and data about them
 Are already accepted in many cultures (Mexico, Asia...)
 Already produced at industrial scale in some countries - namely China
