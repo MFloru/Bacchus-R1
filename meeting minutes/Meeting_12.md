@@ -8,7 +8,7 @@ last_updated: 04/20/2015
 
 |**Date** |**Meeting time**|**Meeting place**
 | ------------- |:----------------:|:-------:
-|April 24, 2015| 4 AM | Zijing 20
+|April 24, 2015| 4 PM | Zijing 20
 
 
 ----------
