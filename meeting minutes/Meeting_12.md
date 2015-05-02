@@ -25,8 +25,6 @@ Meeting Minutes
 
 * new aim: Substitution of traditional food with insects ( tags: health, clear, ecological, transparent, affortable)
 
-* 
-
 
 **Discussions**
 * layout colors
@@ -40,11 +38,6 @@ Meeting Minutes
 * cover page: black/white picture , good cite 
 	
 
-**Tasks**
-* Matthias
-* Max
-* Melinda
-* Iker
 
 
 ----------
@@ -53,4 +46,4 @@ Meeting Minutes
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| |Signed |Signed | | signed|
+| |Signed |Signed |Signed| signed|
