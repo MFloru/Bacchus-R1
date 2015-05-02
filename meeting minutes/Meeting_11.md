@@ -16,10 +16,7 @@ last_updated: 04/20/2015
 
 Meeting Minutes
 ------
-*Next meeting:  ???*
-
-**News**
-* 
+*Next meeting:  April 24th, 4PM*
 
 **Discussions**
 * layout and outline presentation (last modifications)
@@ -41,4 +38,4 @@ Meeting Minutes
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| | Signed|Signed | | |
+| | Signed|Signed | Signed | |
