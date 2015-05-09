@@ -8,7 +8,7 @@ last_updated: 04/15/2015
 
 |**Date** |**Meeting time**|**Meeting place**
 | ------------- |:----------------:|:-------:
-|April 15, 2015| 9 AM | teaching Building 6
+|April 15 2015| 9 AM | teaching Building 6
 
 
 ----------
