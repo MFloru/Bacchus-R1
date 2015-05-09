@@ -28,10 +28,6 @@ Our goal is to provide the world with a plentiness of food, delicious food. Just
 
 
 
-####Focus on mealworms
-#####Presentation
-
-
 #####Academic research in insect nutritional properties (1 page)
 
 #####Academic research in ecological impact (1 page)
@@ -45,6 +41,7 @@ Our goal is to provide the world with a plentiness of food, delicious food. Just
 ###Law
 ####Current legislation in the main markets for mealworm flour (food safety) PLUS impossibility to rear them on waste at the moment
 ####prospects on legislation for mealworm flour
+####danger of people who will sue insects in a lawsuit, find a relevant case
 
 
 ###Technology
