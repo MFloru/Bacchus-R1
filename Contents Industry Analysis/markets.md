@@ -70,6 +70,7 @@ Sports supplements is quite a big market encompassing all bars, powders, drinks 
 Studying what analysts think about the size of this market gives some useful insights. In 2007, BCC Research forecasted that the total market size would be 91.8 billion $ in 2013(BCC Research). In 2011, GIA estimated that the market would reach 67,1 billion $ in 2017 while in a recent report they forecast a size of 61 billion $ in 2020(Global Industry Analysts). It is clear that analysts tend to believe this market will grow way faster than it actually does. Also, almost 95% of this market is sports drinks, a category insect powder probably can't be an input for.
 
 ######Snacks
+
 A lot of the startups trying out insects as food are targeting the snack market. Insects can be seen as a healthy and exotic snacks. Especially for parties this snack becomes popular.
 
 {*here I want to include a list with some examples of startup companies working on insects today and the kind of snacks they are producing. When I have some time I will go through the list of all our links and try to find that.* }
@@ -77,9 +78,11 @@ A lot of the startups trying out insects as food are targeting the snack market.
 The global snack market is mainly concentrated in the USA and Europe. It is a very broad term, including sweets and candy, cookies, crisps, nuts, fruit and much more. In total, this market amounted for 374 billion $ in 2014(Nielsen). However, with data from Euromonitor we can notice that healthy snacks, without fruits and nuts, have only a share of 3% in that market(bankingbusiness.com). Even more, the market share of healthy snacks within the total snack market is decreasing. This raises concerns about the sustainability of the business model of insects as a snack.
 
 #####For animal consumption
+
 Makkar et al. state that a 60–70% increase in consumption of animal products is expected by 2050(FAO). IFIF believes in an even more spectacular growth : meat consumption doubled by 2050 and fish consumption tripled(IFIF). The resources needed to supply all those animals with feed will be enormous.  In this Industry Analysis report, we focus on producing mealworm flour for human consumption. If more mealworms are eaten, this will substitute part of the traditional meat eaten. But we have to acknowledge that people will not completely change their diet from big animals to insects without any disasters obliging them to do so. Therefore, it is important to assess the size of the market of the feed of the animals we eat and check whether those markets can be penetrated by insects as well.  Moreover, with such growth perspectives of an already huge market, completely neglecting animal feed cannot be justified in economic and ecological sense.
 
 Another possible market for mealworm flour is the use in petfood. That will be breefly covered as well.
+
 ######Animal feed
 
 The current total global market of animal feed has a size of 370-500 billion $ per year (IFIF,Alltech). This results in almost 1 billion ton of feed per year. The main categories of animal feed are feed for poultry(444 million ton), pig(243 million ton),ruminant animals(including cow and sheep)(196 million ton), fish feed(40 million ton) and pet food(21 million ton) (alltech). The lower amount of feed for ruminant animals is due to the fact that they are still today mostly fed on pasture from grasslands.
@@ -104,7 +107,7 @@ The market is mainly dominated by a couple of big players : Mars, Nestlé, Colga
 
 An important market trend in the pet food market is the humanization of pets. Lots of people regard their pets almost as human beings, part of their family. This reflects in the market, where the same trends as in the human food market are seen : a trend towards healthy, organic and sustainable food. Also, in the USA, most customers expect that their pet food is made in the USA and not outsourced to production facilities in developing countries. These trends have both positive and negative implications for an companies who want to start producing insects for food on industrial scale. The trend towards healthy and ecological food can affect insects positively, if proper marketed. The trend towards local production can shield them from low cost competition. This competition can be severe, for example, in China, the company HaoCheng Mealworm Inc. is already processing insects on a vast industrial scale. On the other hand, the humanification of pets also raises questions about the acceptance of people to feed their pets insects(petfoodindustry). Will people who don't want to eat insects themselves feed their pets insects?
 
-#####A comparison of the most promising markets
+#####A comparison of the most promising markets:
 
 I will prepare an excel file of the following graphs, then they can be implemented with the style of our graphs afterwards.
 
