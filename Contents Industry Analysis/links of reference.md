@@ -1,7 +1,7 @@
 
 ---
 
-|#|**Link** |**Titel**|**tag**|**Author**|**year**|**QR**|**Marks**|
+|#|**Link** |**Title**|**Tag**|**Author**|**Year**|**QR**|**Marks**|
 |---|--- |---|---|---|---|---|---|
 ||Week 1||||||
 |1|http://www.fao.org/docrep/018/i3253e/i3253e00.htm|"Edible insects Future prospects for food and feed security"|general, report, insects|FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS|2013|-<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2Fwww.fao.org%2Fdocrep%2F018%2Fi3253e%2Fi3253e00.htm&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />|
