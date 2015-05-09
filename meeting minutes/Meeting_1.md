@@ -50,4 +50,4 @@ We think that the Edible Insects are the answer for the problems of our future s
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|
 | ------------- |----------------|----------------|----------------|
-|Signed| Signed | Signed| Signed
+|Signed|Signed | Signed| Signed
