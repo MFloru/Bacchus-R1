@@ -157,7 +157,7 @@ Already produced at industrial scale in some countries - namely China
 ####Academic research in mealworms nutritional properties (1 page)
 As quantified on the table below, mealworms offer slightly less protein than beef but also less fat. The levels are comparable, however, which make them a perfect alternative to beef meat.
 Regarding minerals, mealworms contain more magnesium than beef, and comparable values of calcium, sodium, iron, zinc and other minerals. 
-Mealworms have globally higher vitamin content than beef, except for vitamin B12.
+Mealworms have globally higher vitamin content than beef, except for vitamin B12. It is to be noted that neither beef nor mealworms are significant sources of Vitamin A
 
 *add the my super v2.0 table*
 
