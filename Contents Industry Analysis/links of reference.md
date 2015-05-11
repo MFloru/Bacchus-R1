@@ -82,7 +82,7 @@
 |67|http://www.mealworms-online.com/dried-mealworms/?sort=pricedesc||mealworm,supplier,products,food,animal,europe|||||
 |68|http://www.thenaturesway.com||mealworm, supplier, products, food, animal, america|||||
 |69|http://www.sx-mealworms.com/e_products/?big_id=10||china, supplier, mealworm, products, food, animal|||||
-|70||||||||
+|70|http://www.ipsnews.net/2013/07/edible-insect-market-hindered-by-legal-and-cultural-barriers-in-spain/|ARticle about legal problems in Spain|Spain,insects, culture, barriers, legal issues|||||
 |71||||||||
 |72||||||||
 |71||||||||
