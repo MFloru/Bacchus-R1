@@ -76,7 +76,7 @@
 |61|http://www.nestle.de/zukunftsstudie/10-trends-der-ernaehrung-der-zukunft||german page of nestle who produced an report about food in 2030 and stating that: "Although the idea of algae or insects so far seems hard to imagine as an integral part of our diet, see the study participants this possibility in the future quite 52 percent of respondents can be friends with this idea, as a result of resource-saving nutrition in a value-oriented society. While there are today in much of the German population nor cultural reservations about eating certain foods that are eaten like in some regions of Africa and Asia because of the high content of protein. But in 2030 it will be possible in this country, as long as the products have a dosage form that is reminiscent of familiar dishes and not insects."|||||
 |62|http://www.alibaba.com/corporations/mealworms/CID100006215.html|Mealworm Manufacturers|Manufacturers, mealworms, petgrade|||||
 |63|http://rt.com/news/161004-china-space-worms-capsule/|Chinese space program prepare the usage of mealworms|mealworms, usage, space|||||
-|64||||||||
+|64|http://www.greenkow.be/EN||supplier,mealworm, products, food, europe|||||
 |65||||||||
 |66||||||||
 |67||||||||
