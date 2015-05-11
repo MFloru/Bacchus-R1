@@ -77,7 +77,7 @@
 |62|http://www.alibaba.com/corporations/mealworms/CID100006215.html|Mealworm Manufacturers|Manufacturers, mealworms, petgrade|||||
 |63|http://rt.com/news/161004-china-space-worms-capsule/|Chinese space program prepare the usage of mealworms|mealworms, usage, space|||||
 |64|http://www.greenkow.be/EN||supplier,mealworm, products, food, europe|||||
-|65||||||||
+|65|http://www.edibleunique.com||supplier,mealworm,products,human,food,europe|||||
 |66||||||||
 |67||||||||
 
