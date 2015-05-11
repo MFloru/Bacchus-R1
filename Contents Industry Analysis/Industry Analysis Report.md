@@ -154,9 +154,24 @@ Are already accepted in many cultures (Mexico, Asia...)
 Already produced at industrial scale in some countries - namely China
 *I think we shall also go back on all the aspects -nutritive, health issues, production -cycle life, ecological impact in more details specifically for mealworms...*
 
-####Academic research in insect nutritional properties (1 page)
+####Academic research in mealworms nutritional properties (1 page)
+As quantified on the table below, mealworms offer slightly less protein than beef but also less fat. The levels are comparable, however, which make them a perfect alternative to beef meat.
+Regarding minerals, mealworms contain more magnesium than beef, and comparable values of calcium, sodium, iron, zinc and other minerals. 
+Mealworms have globally higher vitamin content than beef, except for vitamin B12.
+
+*add the my super v2.0 table*
+
+Citation:
+Finke, M. D. (2002), Complete nutrient composition of commercially raised invertebrates used as food for insectivores. Zoo Biol., 21: 269–285. doi: 10.1002/zoo.10031
 
 ####Academic research in ecological impact (1 page)
+A comparative study of mealworms and conventionnal meat sources (pork, chicken and beef) in Global Warming Potential, Energy Utilization and Land Use published in 2012 showed the following results
+
+*add the graphics in the final report*
+
+Citation: 
+Oonincx DGAB, de Boer IJM (2012) Environmental Impact of the Production of Mealworms as a Protein Source for Humans – A Life Cycle Assessment. PLoS ONE 7(12): e51145. doi:10.1371/journal.pone.0051145
+
 
 ###Mealworm flour as a solution (2 pages)
 The reason why we choose to focus on one type of insect flour is that it adresses some of the key drivers : Acceptance in the West by disguising the original shape of an insect, standarization in order to make it possible to use it in lots of products and industrialization to lower the cost of insect food.
