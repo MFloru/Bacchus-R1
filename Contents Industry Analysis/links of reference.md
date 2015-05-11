@@ -79,12 +79,16 @@
 |64|http://www.greenkow.be/EN||supplier,mealworm, products, food, europe|||||
 |65|http://www.edibleunique.com||supplier,mealworm,products,human,food,europe|||||
 |66|http://www.bush-grub.co.uk/home/14-bbq-meal-worms.html||supplier, mealworm, products,food,human,europe|||||
-|67||||||||
-|67||||||||
-|67||||||||
-|67||||||||
-|67||||||||
-|67||||||||
+|67|http://www.mealworms-online.com/dried-mealworms/?sort=pricedesc||mealworm,supplier,products,food,animal,europe|||||
+|68|http://www.thenaturesway.com|||||||
+|69||||||||
+|70||||||||
+|71||||||||
+|72||||||||
+|71||||||||
+|72||||||||
+|73||||||||
+|74||||||||
 
 
 
