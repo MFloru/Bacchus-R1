@@ -81,7 +81,7 @@
 |66|http://www.bush-grub.co.uk/home/14-bbq-meal-worms.html||supplier, mealworm, products,food,human,europe|||||
 |67|http://www.mealworms-online.com/dried-mealworms/?sort=pricedesc||mealworm,supplier,products,food,animal,europe|||||
 |68|http://www.thenaturesway.com||mealworm, supplier, products, food, animal, america|||||
-|69||||||||
+|69|http://www.sx-mealworms.com/e_products/?big_id=10||china, supplier, mealworm, products, food, animal|||||
 |70||||||||
 |71||||||||
 |72||||||||
