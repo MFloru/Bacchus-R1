@@ -21,16 +21,22 @@ Meeting Minutes
 
 
 **Discussions**
+
 *review progress presentation and progress
 
 * Schedule for the end of the year
+
 [] divide all content
+
 [] set deadlines for the different parts (we should at least have 2 weeks for revising content, making it a smooth report and designing the layout)
+
 []assign parts that are not assigned yet
 
 
-*Make sourves more clear
+*Make sources more clear
+
 still not allways clear how to refer to sources
+
 where should we reference
 
 
