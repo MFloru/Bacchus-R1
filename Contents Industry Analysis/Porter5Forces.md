@@ -3,34 +3,34 @@ Buyer Power:
 -	The buyers can buy either bulk size  or retail size
 -	The primary channel for buyers is web stores
 -	The buyers are not sensitive to high prices (gourmet/innovative food) 
-*True for current buyers, but we'll have more if we can lower the price I think. Is this really a Buyer Power?*
--	The product offered is different (transparent processes)
-*What do you mean?*
--	The buyers can change to other distributors
+*(True for current buyers, but we'll have more if we can lower the price I think. Is this really a Buyer Power?*
+**It is a buyer power as they dont focus on cheap prices, but good quality (gourmet or innovative). The buyer pays more but expects more**
+-	Low customer loyalty *It rather belongs to Buyer Power in my opinion, no?* **Yes**
+-	The product can be breed by customers
+*I'd rather put that in the competitive rivalry* **After reviewing I decided to place it to Consumer Power, as if they are not satisfied with the available products, they could breed their own**
 
 Supplier Power:
 
 -	Human consumption level suppliers are few (less than 50 worldwide) 
 -	There size of the suppliers is small to medium (less than 50  employees)
 -	There are a couple of similar products (buffalo worm , soldier fly larvae) 
-*I'd rather put that in the substitutes*
--	The product can be breed by customers
-*I'd rather put that in the competitive rivalry*
+*I'd rather put that in the substitutes* **buffalo worm and soldier fly are basically the same, vegan products and soy meat are substitutes--- Small example: Coke, sprite and Fanta are soda beverages; Iced tea and Fruit juice are substite **
 
 Competitive Rivalry
 
 -	Not many competitors
 -	Innovative products
--	Low customer loyalty *It rather belongs to Buyer Power in my opinion, no?*
--	Small target market *Same, I don't know if it goes in this part but I don't see where to put it*
-
+-	Small target market 
+-	The product offered is different (transparent processes)
+*What do you mean?*
+**We talk tomorrow about this, is basically our main difference against other distributors**
 
 Threat of Substitution:
 
--	Soy produced food is already positioned in market *I'd put that in Competitive Rivalry*
--	Soy produced food has no negative social acceptance factor *I'd combine that with the first line*
--	Plant made food is already highly available as substitute *Do you mean vegetable food?!*
--	Substitute products price tag is high *What does "price tag" mean?*
+-	Soy produced food is already positioned in market *I'd put that in Competitive Rivalry* **Soy products are substitutes, Competitive Rivalry focus on our market, not substitute markets**
+-	Soy produced food has no negative social acceptance factor *I'd combine that with the first line* **Different arguments, better to keep them in different lines**
+-	Plant made food is already highly available as substitute *Do you mean vegetable food?!* **I mean vegan-grade products, like beef made with mushrooms powder, duck meat made with algae and aubergine, etc, etc**
+-	Substitute products price tag is high *What does "price tag" mean?* **Its a fancy way of saying is expensive**
 
 Threat of New Entry:
 
