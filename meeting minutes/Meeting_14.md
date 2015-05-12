@@ -22,7 +22,7 @@ Meeting Minutes
 
 **Discussions**
 
-*review progress presentation and progress
+* Review progress presentation and progress
 
 * Schedule for the end of the year
 
@@ -33,7 +33,7 @@ Meeting Minutes
 []assign parts that are not assigned yet
 
 
-*Make sources more clear
+* Make sources more clear
 
 still not allways clear how to refer to sources
 
