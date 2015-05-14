@@ -8,44 +8,51 @@ last_updated: 05/10/2015
 
 |**Date** |**Meeting time**|**Meeting place**
 | ------------- |:----------------:|:-------:
-|May 13, 2015| 9 AM | Teaching Building VI
+|May 13, 2015| 8:30 AM | Teaching Building VI
 
 ----------
 
 
 Meeting Minutes
 ------
-*Next meeting: ?*
+*Next meeting: Sunday, 1PM, Building 20, 4th floor*
 
 **News**
 
+* Melinda started designing the report -looks very nice!
 
-**Discussions**
+* PESTEL: it could be nice to summarize our content in a analysis along with the 5 Porter forces one
 
-* Review progress presentation and progress
+**Review progress presentation, progress**
 
-* Schedule for the end of the year
+* We must create a new Git file for each part we have to work on. People assigned to review it shall leave comments without deleting anything. The person in charge finally decides on whether to accept or not the suggested changes.
 
-[] divide all content
-
-[] set deadlines for the different parts (we should at least have 2 weeks for revising content, making it a smooth report and designing the layout)
-
-[]assign parts that are not assigned yet
+* Once a part is over (written and reviewed), we must put our final text with references under Word and send it to Melinda so that she can put it in the draft
 
 
-* Make sources more clear
+**Schedule for the end of the year**
 
-still not allways clear how to refer to sources
+*June 1st: all the content of the report should be over (written and reviewed)*
 
-where should we reference
+* see table made by Melinda
+
+[X] divide all content
+
+[X] set deadlines for the different parts (we should at least have 2 weeks for revising content, making it a smooth report and designing the layout)
+
+[X]assign parts that are not assigned yet
 
 
+**Make sources clearer**
 
+* Refer to it clearly in the text thanks to the reference tool of Word and create a bibliography at the end of the part that Melinda will compile in the end
 
-	
+* Make QR Codes of the most important of them (mainly scientific papers)
+
 
 **Tasks**
 
+* See Melinda's Excel
 
 
 ----------
@@ -54,4 +61,4 @@ where should we reference
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| | | | | |
+| | | | Signed| |
