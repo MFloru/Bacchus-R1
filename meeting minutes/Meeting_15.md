@@ -21,6 +21,9 @@ Meeting Minutes
 
 * Point on our advances
 
+**Discussions**
+
+* Logic Model
 
 **Tasks**
 
