@@ -2,21 +2,31 @@ Porter Five Forces
 
   Buyer Power
 
-	End Product Buyer
+End Product Buyer
 	    
 •	The buyers can buy either bulk size or retail size
+
 •	The primary channel for buyers is web stores
+
 •	The buyers are less sensitive to high prices (gourmet/innovative food) 
+
 •	Low customer loyalty
+
 •	The product can be breed by customers
+
 
 End Product Producer Company
       
 •	The product can be breed by customers
+
 •	Low customer loyalty
+
 •	The product can be customized by their needs
+
 •	Product can be bought online
+
 •	Sensitive to high prices
+
 
 
   Supplier Power:
@@ -28,35 +38,50 @@ Producing our own insects
 Buying insects from farms
       
 •	Human consumption level suppliers are few (less than 50 worldwide)
+
 •	The size of the suppliers is small to medium (less than 50 employees)
+
 •	There are a couple similar products (buffalo worm, soldier fly larvae)
+
 •	There are not set regulations for breeding in some countries
+
 
 
 
  Competitive Rivalry
  
 •	Not many competitors
+
 •	Innovative products
+
 •	Small target market
+
 •	The product offered is different (transparent processes)
 
 
 Threat of Substitution
 
 •	Vegan grade produced food is already positioned in market 
+
 •	Vegan grade produced food has no negative social acceptance factor
+
 •	Substitute products price tag is high 
+
 •	Meat is cheaper and highly available
+
 •	Vegetables are cheaper and highly available
 
 Threat of New Entry
 
 •	Pet consumption level producers are moderate-high (less than 200 worldwide)
+
 •	Pet consumption level producers can adjust their processes and produce human consumption level products
 •	The product difficulty is low, competitors can be set up overnight
+
 •	There is no brand recognition yet
+
 •	Processes are easily replicable
+
 •	No patents held
 
 -----------------------------------------------------------------------------------------------------------------------------------
