@@ -15,4 +15,5 @@ In parallel, along with the plant domestication, insects became a pest able to d
 Westerners also rapidly associated insect consumption with some primitive therefore despicable behavior inherited from the hunting-gathering times; forgetting pleasantly that the Greeks and Romans themselves ate insects in ancient times (DeFoliard, 1999)
 
 Because of this historical and cultural background, disgust is the first reaction of many a European when suggested to eat insects. But just as every social norm, it can be changed within some time.
+
 Indeed, some encouraging experiments carried out in Belgium (Rudy Caparros Megido, 2014) showed that on 105 respondents from both genders and different ages, although 46.6% of them had a negative attitude towards it; 77.7% of them were willing to try insects. This demonstrates curiosity and desire to try novel food. 
