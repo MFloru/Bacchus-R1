@@ -39,7 +39,6 @@ OR sourcing from small household farms could be possible if everything can be tr
 
 3 more liquidity : costs are more variable as it is easy to stop buying from some people when the demand is low due to the contracts that are small in quantity and duration.
 
-as mentioned in tech part, the breeding process should make use of data collection as lots of things still need to be improved.
 
 Production is nowadays clearly a key competitive advantage because the knowledge of production is still in full development. However, once this is developed, production with as goal the intermediary product of mealworm flour won't stay a competitive advantage. Mealworm flour will become a staple food that can only compete on price. However, then this can be changed by working on the nutritional content of the flour and producing different kinds of flour meeting the nutritional needs of different market segments.
 
@@ -51,17 +50,17 @@ A key competitive advantage will be inventing products that have a delicious tas
 
 Very related to the endproduct, this last part can create an enormous value if it can make people believe in the products. This will make the difference between being able to ask a relatively high price or having to compete with cheap products, for example frozen burgers.
 
-It also includes the channels you choose to sell (think about this) (include something about the buyer power of supermarkets)
+It also includes the channels you choose to sell :
 
-Supermarkets
+Supermarkets : have a high buyer power but most convenient way to buy food for Europeans and Americans so has to become a sales channel once the mealworm product market becomes big enough. Will require you to deliver high volumes with constant quality, not very suitable for a startup.
 
-Specialized shops
+Specialized shops : shops specializing in bio- and organic food can be a good base to start selling the products. Typically, products sold there have a higher price, but you will have to proof that the food you sell is healthy/environmental friendly.
 
-Online
+Online : Currently, this is the way most used to sell insects. However, as you will have to make use from external package delivery companies, this has some limitations. In China, delivery of food is normal, but in Europe and the USA not really. Fresh food is almost not possible. An alternative is to set up a delivery system yourself but that is too risky with unsure future sales of the insect based products.
 
-restaurants
+restaurants : Can be an easy way to distribute insects. Also, cooks who like to work with you will express their creativity and find new ways to cook with mealworm flour.
 
-festivals-party
+festivals-party : Tapping in the event-sector with snacks you sell on festivals or parties is another way to reach the consumer. Moreover, it is a marketing tool where you get paid for. You only have to convince the organizators and can showcase your product to all participants of the party.
 
 #####key competitive advantages : recommendation
 
@@ -69,9 +68,8 @@ Short term : producing and processing and selling
 
 Long term : processing and selling
 
-Producing becomes in the long term, when mealworm flour has become a staple food, a market that can only compete on price as the production is not differentiated. Processing and marketing will generate way more value then.
 
-IDEA (explained in business model part, is there a need to add it somewhere here as well?) : work together with existing companies for petfood and start licensing them for your products while helping them develop the capabilities in terms of health and nutrition to grow insects for human consumption
+**IDEA (explained in business model part, is there a need to add it somewhere here as well?) : work together with existing companies for petfood and start licensing them for your products while helping them develop the capabilities in terms of health and nutrition to grow insects for human consumption**
 
 
 
@@ -86,73 +84,88 @@ The strategic weapon of the supply chain.
 The highly educated, middle class, young urban population of the creative class in Europe or amerika is our target. They can spend a premium on food that is delicious, healthy and environmental friendly.
 How to prove this? ==> Transparency
 
-Attach a chip to each product package.
+Attach a chip to each product package. The process parameters that you will show to the consumer of that specific package (accessable via a QR code) :
 
-Start with a batch of insects, their breeding times, temperatures, nutritional input (food)
-Then transportation time and cooling environment to factory to process them
-Then the parameters during processing
-Then time and transport to end consumer
+Start with a batch of insects, their breeding times, temperatures, nutritional input (food)...
+Then transportation time and temperature of the environment while being transported to the factory to process them.
+Then the parameters during processing.
+Then time and transport to end consumer.
 
 Also add information about the processes used (the conceptual idea so people get it but cannot ‘copy’ the machine)
-Also add the place with gps
-Information about the nutritional content
-Add all resources used and make a sum of them
+Also add the places where it has been with gps(makes it more difficult to make fake products and proves that it is locally made).
+Information about the exact nutritional content needs to be visualized.
+Finally, add all resources used and make a sum of them to show that it is environmentally friendly.
 
 
 This gives people the ability to fully understand what is inside their food. As we will only use natural ingredients they will be able to judge that these ingredients are healthy.
 Also with this ID it becomes possible to warn people when something is wrong with their product and to trace those products back.
-Also it can help us to have more accurate information on how long you can still keep it fresh.
+Also it can help us to give more accurate information on how long you can still keep it fresh.
 
 #####Blockchain technology
 
 How to make them believe us?
 Technology can help us in this way.
-MAYBE : put a general description of blockchain in the tech part, and then we see that we have different uses for that.
-We can make some kind of blockchain issued by us but publicly known. Only we can issue it, so this makes it more difficult to make a fake product. PWhen people check their product online, they will allways be able to check the full blockchain, so we can not falsify it????
+
+**MAYBE : put a general description of blockchain in the tech part, and then we see that we have different uses for that.**
+
+We can make some kind of blockchain issued by us but publicly known. Only we can issue it, so this makes it more difficult to make a fake product. When people check their product online, they will allways be able to check the full blockchain, so we can not falsify it.
 Every product package has an id and chip with a blockchain attached to it. The blockchain works in a way that it will only execute the next step if the previous step is done, with a timestamp. This means we cannot cheat and put fake things inside.
 Timestamps are also a way to control suppliers.
+
+REMARK : actually I am still not sure how exactly blockhain can help us. Do you have some better ideas, do you get the idea I describe here?
 
 Is this dangerous?
 Off course, making it open encourages competition. However, in the beginning of a new industry, having lots of players in the market is good as this will help grow the market. Then, to survive, it is important to become the strongest company that can set the standard (refer to Stephen lu). This model that can be followed by others is good as standard and once they use this standard it will be easier for us to source our products there.
 Also, an important advantage is that you can keep all information, big data. Your competitors can not acquire as much information as you.  With all this data, it will be possible, together with the short life cycle and fast clockspeed, to improve the process very fast and iteratively. This can lead to new opportunities in terms of nutritional content and waste, because nowadays much is done by convention and not yet backed by extensive research.
-Channels
 
-####reach the consumer
 
-Supermarkets
-Specialized shops
-Online
+#####reach the consumer
+
+As discussed before, online sales is the most popular medium nowadays. It seems to be that this is the general case for startups. Therefore, companies do not think a lot about how to sell their products and just assume the best way is using the internet.
+However, it should not be forgotten that other channels can make the difference between becoming succesful or not. Having a stand selling your products on festivals, selling in specialized shops, selling in fitness centra or sportsclothing shops when you target sports people... Every company should think about alternative ways to sell in order to pick the best one.
+
+In a later stage, once the product becomes succesful, supermarkets can be targeted.
 
 
 ####Sourcing & Supply chain : global or local?
-Competition from countries with cheaper labour, as the highest cost is manual work (according to mail with tiny farms+ other sources)
-Also already bigger companies in those countries haocheng mealworm inc
-However, perishability and consumer acceptance
-In this stage only if it is regarded as delicious healthy organic environmental friendly thrustable grown in own country
-Therefore the transparency strategy
-Transport & inventory
+Competition from countries with cheaper labour can become an issue, as the highest cost of producing insects right now is manual work (according to mail with tiny farms+ other sources).
+Also there are already bigger companies in those countries, e.g. haocheng mealworm inc.
+A strategy could be to start sourcing from them once they become a threat.
+However, 2 facts shield local production in Western countries from this threat : perishability and consumer acceptance.
 
-Freshness
-Scale
+Acceptance :In this stage only if it is regarded as delicious, healthy, organic, environmental friendly, thrustable, grown in own country.
+Therefore the transparency strategy and local production.
+
+Perishability : part of the food to sell will be fresh food, putting an extra barrier to companies who produce abroad. For mealworm flour in itself this is not a barrier.
+
+For fresh insect based products : very local production :
 Possible to grow them in urban areas or near to urban areas in order to deal with transportation cost and time (maybe the mushroom farming as an example with link to the blue economy, waste!!)
+.
+
+Developing countries also not a target market : less creative class & will not pay a higher price for food. Therefore, not much advantages of a global supply chain. Keep it local!
 
 ####Clockspeed & Innovation
 The life cycle of insects is very short, as mentioned in earlier parts
 This makes the clockspeed of innovation in the growing process very high
 Also goods are fast consumed, so consumers will very fast come back or not.
-Look up more about clockspeed
+Look up more about clockspeed....
 
-Innovation!!
+Innovation through the continious collection of data about breeding process. Constantly working with slight variations can become the base for experiments that can lead to insects containing the optimal nutritional content made at the cheapest price.
+Much of the breeding today is still done without a full understanding of the best parameters, this will change this to a fully known and optimized process.
+**we should write more about this in the technology part**
 
 ###Business Model
 
 Here we want to present the business model of the ideal insect for food company. It is a fictitious mind exercise, not pretending to give a waterproof strategy to win the market. However, it will help to give an understanding of all the concepts we touched throughout the report and show the direction that our research is indicating.
 
 ####Business model canvas
+The business model canvas will visualize and summarize the ideas we have about organizing your complete supply chain.
+
+I will make 1 canvas for an early stage startup company and one for a later stage company.
+
 Do this first or afterwards? Or both?
 Still to do.
 
-Also possible to make different business model canvases, for different businesses, such as one specializing in production up to mealworm flour, one vertically integrated and one only selling.
 
 ####Growth strategy
 
