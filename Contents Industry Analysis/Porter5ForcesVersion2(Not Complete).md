@@ -2,6 +2,8 @@ Porter Five Forces
 
   Buyer Power
 
+
+
 End Product Buyer
 	    
 •	The buyers can buy either bulk size or retail size
@@ -13,6 +15,7 @@ End Product Buyer
 •	Low customer loyalty
 
 •	The product can be breed by customers
+
 
 
 End Product Producer Company
@@ -29,11 +32,18 @@ End Product Producer Company
 
 
 
+
+
+
+
   Supplier Power:
+  
   
 Producing our own insects
 	    
 •	No suppliers
+
+
 
 Buying insects from farms
       
@@ -44,6 +54,8 @@ Buying insects from farms
 •	There are a couple similar products (buffalo worm, soldier fly larvae)
 
 •	There are not set regulations for breeding in some countries
+
+
 
 
 
@@ -59,6 +71,9 @@ Buying insects from farms
 •	The product offered is different (transparent processes)
 
 
+
+
+
 Threat of Substitution
 
 •	Vegan grade produced food is already positioned in market 
@@ -70,6 +85,11 @@ Threat of Substitution
 •	Meat is cheaper and highly available
 
 •	Vegetables are cheaper and highly available
+
+
+
+
+
 
 Threat of New Entry
 
@@ -83,6 +103,9 @@ Threat of New Entry
 •	Processes are easily replicable
 
 •	No patents held
+
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
