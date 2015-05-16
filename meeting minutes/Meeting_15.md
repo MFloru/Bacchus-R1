@@ -33,6 +33,10 @@ An idea is to make, next to the complete model, a shorter model highlighting the
 
 Finally, the time has come to make a business model canvas. It can be added in the last part of the report serving as a visualization of the things we recommend a starting company in this field to think about. Matthias will prepare it by Sunday, we can discuss it then.
 
+*Prepare everything that is inside the last post on teambition of the professor - a lot!
+
+*Institionalize the accessibility of the last version of the design of the full report by everyone.
+
 * Check of tasks
 
 Everybody presents the progress in his or her tasks. Marie subdivides her tasks. New deadlines should be set.
