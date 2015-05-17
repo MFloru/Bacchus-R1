@@ -4,12 +4,15 @@
 
 *complete references saved as such in the Word file*
 
-*starting bluntly with stating that there is disgust seems too straightforward. I would add a couple of sentences about this acceptance and why it is important, for example(first draft):
-A key challenge towards selling insects for human consumption will be people in the West accepting insects as a food source or not. A better understanding of why most people do not like insects nowadays can help finding creative solutions to make people accept insects.*
+*starting bluntly with stating that there is disgust seems too straightforward. I would add a couple of sentences about this acceptance and why it is important, for example(first draft): A key challenge towards selling insects for human consumption will be people in the West accepting insects as a food source or not. A better understanding of why most people do not like insects nowadays can help finding creative solutions to make people accept insects*
+*=> agreed! I made minor modifications to your sentence:*
 
-Let us put the currently observed Western disgust towards insect consumption  (FAO, 2013) in a historical prospect.
+A key challenge towards selling insects for human consumption will be people in the West accepting insects as a food source. A better understanding of why most Westerners do not like the idea of eating insects nowadays (FAO, 2013) can indeed help finding creative solutions to improve global insects acceptance.
 
-*next to historical, should we also add the global context here, namely 2 billion non westerners eating insects around the world?*
+Let us put the currently observed Western disgust towards insect consumption  in a historical prospect.
+
+*next to historical, should we also add the global context here, namely 2 billion non westerners eating insects around the world?* 
+*=>Didn't we already talk about it in the introduction? I fear there will be too many repetitions. But I can put it i the first sentence if needs be*
 
 Agriculture was born in the Fertile Crescent, a region located in western Asia, ten thousand years ago before quickly spread to Europe. From a nomad hunter-gatherer way of life, men started to domesticate plant and animals to secure their food sources, thus became sedentary (Henry, 1997).
 
@@ -17,9 +20,9 @@ The domesticated animals were mainly large ones, not only because they were pres
 
 In parallel, along with the plant domestication, insects became a pest able to destroy entire harvests. This is one of the reasons why Westerners culturally associate all insects with nuisances. Examples such as mosquitos, ticks, fleas or flies able to transmit illnesses to humans; or termites eating the wood of their constructions only deepened Westerners’ aversion against insects. Not to mention the shapes of insects, seen as monstrous and repulsive by many a European.
 
-Westerners also rapidly associated insect consumption with some primitive and therefore despicable behavior inherited from the hunting-gathering times; forgetting pleasantly that the Greeks and Romans themselves ate insects in ancient times (DeFoliard, 1999)
+Westerners also rapidly associated insect consumption with some primitive and therefore contemptible behavior inherited from the hunting-gathering times; forgetting pleasantly that the Greeks and Romans themselves ate insects in ancient times (DeFoliard, 1999)
 
-*what is despicable behaviour? could you change it to an easier wording?*
+*what is despicable behaviour? could you change it to an easier wording? =>Ok. I hope "contemptible" is easier to understand; I've changed it*
 
 Because of this historical and cultural background, disgust is the first reaction of many a European when suggested to eat insects. But just as every social norm, it can be changed within some time.
 
