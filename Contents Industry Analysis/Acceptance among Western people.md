@@ -5,6 +5,7 @@
 *complete references saved as such in the Word file*
 
 *starting bluntly with stating that there is disgust seems too straightforward. I would add a couple of sentences about this acceptance and why it is important, for example(first draft): A key challenge towards selling insects for human consumption will be people in the West accepting insects as a food source or not. A better understanding of why most people do not like insects nowadays can help finding creative solutions to make people accept insects*
+
 *=> agreed! I made minor modifications to your sentence:*
 
 A key challenge towards selling insects for human consumption will be people in the West accepting insects as a food source. A better understanding of why most Westerners do not like the idea of eating insects nowadays (FAO, 2013) can indeed help finding creative solutions to improve global insects acceptance.
@@ -28,4 +29,9 @@ Because of this historical and cultural background, disgust is the first reactio
 
 Indeed, some encouraging experiments carried out in Belgium (Rudy Caparros Megido, 2014) showed that on 105 respondents from both genders and different ages, although 46.6% of them had a negative attitude towards it; 77.7% of them were willing to try insects. This demonstrates curiosity and desire to try novel food.
 
+Besides, several initiatives such as the “Pestaurant” events in the UK (Rentokil) aim at promoting Western consumption of insects. As another evidence of their growing popularity, more and more restaurants cooking insects open their doors in the Western countries (Insect Europe)
+
 *one encouraging experiment seems not enough to convince me when I read this, so would be good to have 3 of them. A good one is this one : a pop up restaurant in london serving insects, and they have data on how much was consumed. http://www.rentokil.co.uk/pestaurant/ another example is that insects are sold in supermarkets in Belgium these days(we have already links about that.) Also possible is to draw a parallel to sushi, apparently was sushi regarded as disgusting 30 years ago in USA and Europe*
+
+*=>I found a link towards a non-exhaustive list of restaurants that serve insects in Europe and North-America and put it there as well as your Rentokil initiative example. I think the study I used is good already because it is really scientific*
+
