@@ -39,7 +39,7 @@ Logic Model Alternative V1
 | Weekly classes & meetings on wednesday (+ friday) in teaching building 6 (+building 20) | assessment of operational improvements needed to achieve impact | promotion of information sharing in insect industry |	low cost insect producing | social economic gain : acces to a cheap protein source  | mentors : professor Ben Koo, TA Echo, Zimmer , Kuba|
 | cooperation platforms : Github & Teambition | an improvement/establishment of an industrial process needed in the supply chain of processed insects ||establishing insects as a widespread meat replacement|global food security|Insect community: researchers, scholars, startups, enthousiasts, farmers, consumers... |
 | review and suggestions from classmates, professor, Zimmer, Kuba, Industry stakeholders | compiled Industry Analysis report | | | | |
-| Experimental setup of industrial process. place : RISE greenhouse, budget : 50-500$ resources?  | published IA report on website, github, tradtional media, specialized media| | | | ||
+| Experimental setup of industrial process. place : RISE greenhouse, budget : 50-500$ *resources? => TO CHANGE*  | published IA report on website, github, tradtional media, specialized media| | | | ||
 
 
 
@@ -49,4 +49,4 @@ Logic Model Alternative V1
 
 |**Matthias** |**Marie**|**Melinda**|**Max**|**Iker**|
 | ------------- | ------------- | ------------- | ------------- |------------- |
-|signed| Signed | | | |Signed|
+|signed| Signed | | |Signed|
