@@ -92,7 +92,7 @@ Meeting Minutes
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
 <<<<<<< HEAD
-| Signed| | | Signed| |
+| Signed| | Signed| Signed| |
 =======
 | |Signed | | Signed| |
 >>>>>>> 495b0ac477782b0519c92576873a7fdae76c3e96
