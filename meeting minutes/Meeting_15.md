@@ -79,5 +79,5 @@ Markets: statistics on this market become available; market share and volume.
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| |Signed | |Signed | |
+| |Signed | |Signed | signed|
 
