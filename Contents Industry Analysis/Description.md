@@ -2,3 +2,6 @@ Given the trend on population increase, the Earth will be inhabited by more than
 
 // *Please comment on it as soon as possible so Melinda can start working on it*
 *It would be helpful and faster if instead of comments, just propose the changes directly and comment on the bottom what changes were made*
+
+This is the source of the CO2 impact btw
+http://www.ewg.org/meateatersguide/a-meat-eaters-guide-to-climate-change-health-what-you-eat-matters/climate-and-environmental-impacts/
