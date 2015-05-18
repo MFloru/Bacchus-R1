@@ -59,4 +59,4 @@ Everybody presents the progress in his or her tasks. Marie subdivides her tasks.
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| | | | | |
+| | Signed | | | |
