@@ -19,7 +19,7 @@ Meeting Minutes
 **News**
 
 * Melinda started designing the report -looks very nice!
-<<<<<<< HEAD
+
 
 * PESTEL: it could be nice to summarize our content in a analysis along with the 5 Porter forces one
 
@@ -66,17 +66,17 @@ Meeting Minutes
 
 
 **Make sources clearer**
->>>>>>> 495b0ac477782b0519c92576873a7fdae76c3e96
+
 
 * Refer to it clearly in the text thanks to the reference tool of Word and create a bibliography at the end of the part that Melinda will compile in the end
 
-<<<<<<< HEAD
+
 **Make sources clearer**
 
 * Refer to it clearly in the text thanks to the reference tool of Word and create a bibliography at the end of the part that Melinda will compile in the end
 
 =======
->>>>>>> 495b0ac477782b0519c92576873a7fdae76c3e96
+
 * Make QR Codes of the most important of them (mainly scientific papers)
 
 
@@ -91,8 +91,7 @@ Meeting Minutes
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-<<<<<<< HEAD
-| Signed| | Signed| Signed| |
-=======
-| |Signed | | Signed| |
->>>>>>> 495b0ac477782b0519c92576873a7fdae76c3e96
+
+| Signed| Signed| Signed| Signed| |
+
+
