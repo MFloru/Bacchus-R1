@@ -138,7 +138,7 @@ This could really affect the business of the end product producers as every rest
 
 Producer of End Product :
 
-	The companies that decide to focus on the transformation of the mealworms into an end product have also lot of power when deciding where to get their raw materials.  The producers can buy the insects from an insect farming company that specializes on the breeding of mealworms. But, the lack of clear regulations as to how to breed the insects in some countries can provide a wide array of insect’s farms with unclear quality control in their processes. Therefore the producer can be strict when deciding on a supplier and ask for quality controls and regulations on the process.   
+The companies that decide to focus on the transformation of the mealworms into an end product have also lot of power when deciding where to get their raw materials.  The producers can buy the insects from an insect farming company that specializes on the breeding of mealworms. But, the lack of clear regulations as to how to breed the insects in some countries can provide a wide array of insect’s farms with unclear quality control in their processes. Therefore the producer can be strict when deciding on a supplier and ask for quality controls and regulations on the process.   
 As any company, they are seeking profit. The producers usually buy in large amounts, therefore they can ask for fair prices or simply change supplier. As the end customer, if none of the suppliers can meet their needs, the producer can opt to breed their own insects and in that way guarantee the price they need with the quality they require. 
 
 
@@ -146,7 +146,7 @@ Supplier Power:
 
 Self-producing customer:
 	
-	The company that decides to breed insects for human consumption have no major supplier. The common suppliers of required services such as electricity, water, gas, etc. are not considered as suppliers therefore we can say that this type of company would not work with any supplier. 
+The company that decides to breed insects for human consumption have no major supplier. The common suppliers of required services such as electricity, water, gas, etc. are not considered as suppliers therefore we can say that this type of company would not work with any supplier. 
 	
 Farm suppliers:
 
