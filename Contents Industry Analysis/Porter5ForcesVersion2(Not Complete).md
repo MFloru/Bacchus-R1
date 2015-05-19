@@ -127,3 +127,10 @@ Even though vegan-grade products doesn’t provide high protein levels, there ha
 
 *I heard that vegan products had vegetal protein... ? Could you check it out?* **Indeed they have, the sentences are corrected.  **
 
+Supplier Power:
+	Self-producing customer
+	The company that decides to breed insects for human consumption have no major supplier. The common suppliers of required services such as electricity, water, gas, etc. are not considered as suppliers therefore we can say that this type of company would not work with any supplier. 
+Farm suppliers
+Because consuming insects is still a considered as novelty food in the Western countries the legal framework to handle with this topic is still new and needs to be improved with time and experiences. That gives a good edge to companies that decide to focus on the breeding of the insects. The companies can exploit the lack of regulations in some countries at least for the foreseeable future. Its important to note that even in countries that historically have the habit of eating insects, there are no legal framework to deal with the industrial processing of them, leaving that as uncertainty for now. 
+Another edge for the breeders is that currently there are less than 50 companies worldwide doing the same. This means the competitors are few and scattered all around the globe. Each of them have enough market to cover without the need of hard competition, for now. Also, this companies are in their majority startups. As this is novelty in Western countries, the startup companies mainly composed by young enthusiast. Because of this they can develop their ideas without the fear of a huge corporation entering the market. 
+	In addition, the producers have a couple products with very similar characteristics. Although we are mainly talking about mealworm products, the larvae of the soldier fly and the buffalo worm (another kind of larvae) share lots of characteristics with the mealworms. Therefore, this also gives an edge to the producers that can shift between them based on the requirements of the market or the amount of competitors in each of those. 
