@@ -127,3 +127,29 @@ Even though vegan-grade products doesn’t provide high protein levels, there ha
 
 *I heard that vegan products had vegetal protein... ? Could you check it out?* **Indeed they have, the sentences are corrected.  **
 
+
+Buyer Power:
+
+End Product Buyer:
+	
+In the current market the customer has a lot of strengths to exploit. Given the option that the e-commerce is widely distributed and accepted, the end user can get in contact with the any of the distributors of the end product with relatively easiness. Then, the customer can decide to either buy in bulk or in small retail orders. But both of this kind of orders (End product) should be issued to the distributor. 
+ The target market of this product is open to innovative products. This kind of market is usually less sensitive to high prices, given that the production levels of the innovative products is not as high as a everyday use products. But is important to know that because of this flexibility towards price, the customer is very strict with their quality needs, rapidly changing to another supplier if they suspect quality is not the expected. Also, if any of the distributors meet the desired requirements, the strictest clients could decide to contact directly the manufacturer of the insects, and buy the insects to produce their own customized products themselves. Or even make the decision to breed by their own, customizing their insects to every recipe. 
+This could really affect the business of the end product producers as every restaurant/small store/insect enthusiast can start trying new inventions swamping the market with different products. On the other hand, this easiness to change of supplier through the supply chain can also boost the business as more people will be open to try new recipes that they can came by themselves. 
+
+Producer of End Product :
+
+The companies that decide to focus on the transformation of the mealworms into an end product have also lot of power when deciding where to get their raw materials.  The producers can buy the insects from an insect farming company that specializes on the breeding of mealworms. But, the lack of clear regulations as to how to breed the insects in some countries can provide a wide array of insect’s farms with unclear quality control in their processes. Therefore the producer can be strict when deciding on a supplier and ask for quality controls and regulations on the process.   
+As any company, they are seeking profit. The producers usually buy in large amounts, therefore they can ask for fair prices or simply change supplier. As the end customer, if none of the suppliers can meet their needs, the producer can opt to breed their own insects and in that way guarantee the price they need with the quality they require. 
+
+
+Supplier Power:
+
+Self-producing customer:
+	
+The company that decides to breed insects for human consumption have no major supplier. The common suppliers of required services such as electricity, water, gas, etc. are not considered as suppliers therefore we can say that this type of company would not work with any supplier. 
+	
+Farm suppliers:
+
+Because consuming insects is still a considered as novelty food in the Western countries the legal framework to handle with this topic is still new and needs to be improved with time and experiences. That gives a good edge to companies that decide to focus on the breeding of the insects. The companies can exploit the lack of regulations in some countries at least for the foreseeable future. Its important to note that even in countries that historically have the habit of eating insects, there are no legal framework to deal with the industrial processing of them, leaving that as uncertainty for now. 
+Another edge for the breeders is that currently there are less than 50 companies worldwide doing the same. This means the competitors are few and scattered all around the globe. Each of them have enough market to cover without the need of hard competition, for now. Also, this companies are in their majority startups. As this is novelty in Western countries, the startup companies mainly composed by young enthusiast. Because of this they can develop their ideas without the fear of a huge corporation entering the market. 
+	In addition, the producers have a couple products with very similar characteristics. Although we are mainly talking about mealworm products, the larvae of the soldier fly and the buffalo worm (another kind of larvae) share lots of characteristics with the mealworms. Therefore, this also gives an edge to the producers that can shift between them based on the requirements of the market or the amount of competitors in each of those. 
