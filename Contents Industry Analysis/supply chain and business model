@@ -10,7 +10,7 @@ Marketing : how to use the supply chain process as a strategic weapon in making 
 
 Global supply chain : do we produce and sell globally or locally?
 
-/*I have a doubt whether we are or not an actual company, if we are not then you have to adjust the titles, but if we are then its ok. 
+/*I have a doubt whether we are or not an actual company, if we are not then you have to adjust the titles, but if we are then its ok.
 
 
 Clockspeed : What is the clockspeed of the industry and how does this affect innovation in the industry?
@@ -156,7 +156,7 @@ This makes the clockspeed of innovation in the growing process very high
 Also goods are fast consumed, so consumers will very fast come back or not.
 Look up more about clockspeed....
 
-Innovation through the continious collection of data about breeding process. Constantly working with slight variations can become the base for experiments that can lead to insects containing the optimal nutritional content made at the cheapest price.
+Innovation through the continuous collection of data about breeding process. Constantly working with slight variations can become the base for experiments that can lead to insects containing the optimal nutritional content made at the cheapest price.
 Much of the breeding today is still done without a full understanding of the best parameters, this will change this to a fully known and optimized process.
 **we should write more about this in the technology part**
 
@@ -191,3 +191,119 @@ Now change your sales channels to supermarkets etc.
 
 Products best produced in this stage are burgers targeted as meat against beef burgers and not as meat susbsitute.
 /*burgers? are we just limiting into burgers? i think we have to leave it broad to any kind of meat style meatballs, steaks, etc*
+
+####PLC
+Add something about the ipodia lecture : product life cycle, early stage, setting the standard and refer to that looking to high tech industries is justified here.
+
+
+###Supply chain
+
+####Strategy
+
+After studying the outside forces affecting the business, which we in this report grouped as market, norms, technology and law, a company can start developing a strategy for a successful business.
+However, this is not enough. A successful strategy will soon be followed by competitors. A company will get a competitive advantage when it can deliver the best products, at the fastest rate, the best quality and for the lowest cost.
+Charles fine puts it clear in his clockspeed paper (Charles Fine). Supply chain is a strategic weapon. The model he proposes to think about and design a company is 3D concurrent engineering.
+It is the overlap of 3 disciplines : product (design and architecture) process (technical capabilities and manufacturing system) and supply chain(architecture and the logisitcs and coordination system).
+
+*Add the 3 rings of 3D concurrent engineering here*
+
+Pradeep Fernandes adds a fourth dimension : Marketing. This is the connection between studying the outside forces and working on internal operations. And that is exactly where a company in a nascent market has to excel in. Therefore, in this section, we assess the dimensions of the extended "4D" concurrent engineering in the insect business.
+
+*Add the 4 rings of 3D concurrent engineering + marketing here*
+
+*These four questions could be slightly accentuated in the design.*
+
+Vertical integration : where should a company position itself in the complete supply chain from growing the insects to selling them to customers?
+
+Marketing : how to use the supply chain process as a strategic weapon in making customers buy mealworm products?
+
+Global supply chain : should a company produce and sell globally or locally?
+
+Clockspeed : What is the clockspeed of the industry and how does this affect innovation in the industry?
+
+
+
+####Vertical integration : positioning
+
+In the 1980ies, IBM, completely dominant in the computer industry, launched the personal computer. They chose to make it a modular system and outsourced parts such as the processor (Intel) and the operating system (Microsoft). This choice was made to increase the speed to market and simplify the task of setting up a supply chain.
+They got it wrong. The modular PC they built became just a standard box, while 'Intel Inside' and 'Operated by Windows' became the reasons to choose a PC for most of the customers. In 2004, IBM had to sell its PC division to Lenovo(http://news.cnet.com/IBM-sells-PC-group-to-Lenovo/2100-1042_3-5482284.html).
+This story, again by Charles Fine, reveals the strategic impact of make-buy decisions. It is not just about lowering costs. A company has to carefully choose and develop its core competencies. Only then, outsourcing decisions can be made. To help with choosing the right core competencies, we break the vertical supply chain for mealworm based foods down into 3 parts :
+
+Production of insects
+
+Processing insects into a product
+
+Selling and marketing to end consumer
+
+#####Production (breeding or rearing) of insects
+
+
+Production is nowadays clearly a key competitive advantage because the knowledge of breeding insects is not yet fully developed. Doing production in house is the only way to collect all information about processes and to implement continuous improvement.
+However, once production processes are developed and the insect market starts to take off, production with as goal the intermediary product of mealworm flour will endure fierce competition. This both from existing pet food insect companies who want to tap into an additional market or other previous startups who developed their production processes as well. Mealworm flour will become a staple food that competes on price. Once this stage of competition is reached, a company needs to make the choice between staying in production or focussing on processing. If they stay, or they will have to develop the lowest cost processes or they will have to diversify. Diversifying is possible by working on the nutritional content of the flour and producing different kinds of flour meeting the nutritional needs of different market segments.
+
+So far, we assume that production will be done in large factories. Another possibility is distributed production of insects. In third world countries, a minilivestock of insects can improve the livelyhood of people as it provides an additional source of income and food(FAO report p.125). In the West, urban farming is growing popular. Due to space limits in developed cities, nowadays it only supplies 5% of the urban food consumption(Future Directions international http://www.futuredirections.org.au/publications/food-and-water-crises/1406-feeding-the-cities-is-urban-agriculture-the-future-of-food-security.html). Concentrating on species such as insects, who require less space than other animals can be a strategic decision for urban farmers.
+
+To help with a choice between traditional big factories and distributed production, we provide a list of advantages and disadvantages.
+
+Big factories :
+
++ Economies of scale.
+
++ Control of product safety and nutritional content and collection of all process data to make fast improvements is possible with modern technology.
+
++ In house development of production competencies and capabilities, development of optimal and automated production processes.
+
++ No complext supplier coordination system needed.
+
+- Large investment, large financial risk.
+
+Distributed production :
+
++ Less financial risk : you don't have to invest in a factory.
+
++ Less demand risk : it grows an insect community that probably becomes a loyal customer base.
+
++ More liquidity : costs are more variable as it is easy to stop buying from some people when the demand is low due to the contracts that are small in quantity and duration.
+
+- High quality cost: tracking of production practices needed to ensure quality. With modern technology this should be possible.
+
+- High coordination cost : logistics and subcontracts contracts require a substantial effort.
+
+#####Processing into insect products
+Here economies of scale are very important. Only a fully automated process that can process insects continuously is viable in the long term.
+Therefore, sourcing insects from different breeding plants will involve lower risks. The cumulative capacity of different mealworm plants can be needed to suplly a continuous mealworm based food product. Pests breaking out in an insect population is another risk that can be minimized with multiple supply plants. If a pest is breaking out in one plant, there can still be sourced from another plant.
+
+Again, extensive data collection in order to reach continuous improvement is a need for a successful company.
+
+A key competitive advantage will be inventing products that have a delicious taste and good appearance. These will be needed to grow the market from almost zero today to a serious alternative for traditional meat.
+In parallel, the processes to make these food products will have to be developed.
+
+#####Selling and marketing to endconsumer
+
+Very related to the end product, this last part can create an enormous value if it can make people believe in the products. This will make the difference between being able to ask a relatively high price or having to compete with cheap products, such as for example frozen burgers.
+The next part will go in more detail about strategies to build a brand as insect producer. Here, we limit the discussion to the different possibilities in sales channels.
+
+Supermarkets : have a high buyer power but it is the most convenient way to buy food for Europeans and Americans. Therefore, it has to become a sales channel once the mealworm product market becomes big enough. Will require to deliver high volumes with constant quality, not very suitable for a startup.
+
+Specialized shops : shops specializing in bio- and organic food can be a good base to start selling the products. Typically, products sold there have a higher price, but they will ask to proof that the food sold is healthy/environmental friendly.
+
+Online : Currently, this is the way most used to sell insects. However, a startup will very likely have to make use from external package delivery companies. This has some limitations. In China, delivery of food is normal, but in Europe and the USA not really. Fresh food, apart from ready meals, is almost not possible. An alternative is that a company sets up a delivery system by itself. That is risky with unsure future sales of the insect based products.
+
+Restaurants : Can be an easy way to distribute insects. Also, cooks who like to work with an insect provider will express their creativity and find new ways to cook with mealworm flour.
+
+festivals-party : Tapping in the event-sector with snacks by selling on festivals or parties is another way to reach the consumer. Moreover, it is a marketing tool you get paid for. A startup only has to convince the organizators and can showcase its product to all participants of the party.
+
+#####key competitive advantages : recommendation
+
+In the short term, with the lack of reliable producers of insects today, combined with the advantages of learning from process data, a complete vertical integration of the supply chain can be advantageous.
+
+The following graph, provided by the US Department of Agriculture, gives an indication that this strategy is probably not the best in the long term.
+There is a huge difference between what the farmer gets for the food he produces and the ultimate retail price the customer pays. That money goes partly to the food processors and distributors and partly to the marketing and sales channels or retailers. The more processed the food is, the bigger this difference.
+For complext food products based on insect flour, a big difference can be expected. Therefore, most of the generated value lies in the more downstream activities.
+
+*Add graph of the spread in price between farmer and retailer of bread and flour here, I have the pdf*
+( US Department of Agriculture http://www.ers.usda.gov/topics/food-markets-prices/food-prices,-expenditures-costs.aspx)
+
+Still, producing of the insects itself will stay an important part of the supply chain. An analogy can be drawn with burgers, in which the best working marketing tool for the past years is using locally grown fresh beef for the burgers. The same will be true for insects.
+An insect producer can make it a strategy to grow them organically and make the processors and marketeers use his high quality insects as a sales strategy.
+For the processors and marketeers, a strategy can be to work closely together with suppliers and license them for products while helping them to develop the right capabilities in terms of health and nutrition.
