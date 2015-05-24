@@ -22,6 +22,8 @@ Meeting Minutes
 
 * Max made a sketch of a factory and Iker finished the 5 Porter forces
 
+* We'll have to take a group picture (on a white background)
+
 **Discussions**
 
 * Point on our progress and adjustments: 
