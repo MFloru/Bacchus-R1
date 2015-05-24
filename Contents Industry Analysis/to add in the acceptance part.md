@@ -1,4 +1,4 @@
-FOR THE “Market study” PART
+*To support the statistic data of the study on Belgians + add some quotes from what people said during the experiment & the article from Spain of + look for the google researches number*
 
 According to a statistical study carried on 368 Westerners, the likelihood of adopting insects as a substitute for meat is 12.8% [95% CI: 6.1–19.4%] for males and 6.3% [95% CI: 2.8–9.9%] for females, though one out of five meat consumers claims to be ready to adopt insects.
 
