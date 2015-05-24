@@ -2,7 +2,7 @@
 
 * Nutritional values
 
-Mealworms larvae are highly comparable to beef in terms of content (FAO, 2013) for a lesser environmental impact. Complete content studies of fresh mealworms have been carried out (Finke, 2002).
+Mealworms larvae are highly comparable to beef in terms of content (FAO, 2013) for a lesser environmental impact. Complete content studies of fresh and dried powder of mealworms have been carried out (Finke, 2002; Siemianowska, 2013).
 
 *Melinda, please insert here the nice graph you made for the PPT presentation!*
 
