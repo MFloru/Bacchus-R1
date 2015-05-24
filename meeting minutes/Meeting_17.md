@@ -18,13 +18,31 @@ Meeting Minutes
 
 **News**
 
+* We have to arrange a meeting with Ben Koo next week (Friday if possible, Thursday otherwise). Almost everything should be written by then
+
+* Max made a sketch of a factory and Iker finished the 5 Porter forces
+
 **Discussions**
 
-* Point on our progress and adjustments
+* Point on our progress and adjustments: 
+
+* We should talk about PESTEL somewhere
 
 **Tasks**
 
-* See Melinda's Excel for deadlines
+* Matthias arranges our meeting with Ben Koo
+
+* Matthias finishes the market and supply chain parts
+
+* Melinda and Matthias review the 2 first parts of the report
+
+* Max finishes the technology part
+
+* Iker investigates law in the USA and checks the Risk analysis from the first third of the first chapter of the international business law book
+
+* Marie finishes the health, acceptance (add quotes from the articles + emphasize more about our results and target customers + look for Google searches) and environmental parts and meets Melinda to put it into the report together
+
+* * See Melinda's Excel for deadlines
 
 ----------
 
@@ -32,6 +50,6 @@ Meeting Minutes
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| | | | | |
+| | | |Signed | |
 
 
