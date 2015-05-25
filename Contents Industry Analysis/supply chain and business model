@@ -307,3 +307,79 @@ For complext food products based on insect flour, a big difference can be expect
 Still, producing of the insects itself will stay an important part of the supply chain. An analogy can be drawn with burgers, in which the best working marketing tool for the past years is using locally grown fresh beef for the burgers. The same will be true for insects.
 An insect producer can make it a strategy to grow them organically and make the processors and marketeers use his high quality insects as a sales strategy.
 For the processors and marketeers, a strategy can be to work closely together with suppliers and license them for products while helping them to develop the right capabilities in terms of health and nutrition.
+
+####Marketing & Supply chain as a strategic weapon
+
+The highly educated, middle class, young urban population of the creative class in Europe or North-America are most likely to adapt to insect food. They can spend a premium on food that is delicious, healthy and environmental friendly.
+That insects can fulfill all these requirements is likely the best marketing tool to make them accept and embrace insect based food.
+
+Nowadays, most startups use crowdfunding and an active bog linked to their website to grow a community. This involves a high degree of transparency of what they do. Even better in this are open source companies, in the beginning only for software, but today open source hardware companies also start operating. The advantages of this business model include pre financing, attachment of the customer to the brand through a community and customer involvement in new product creation among others.
+An in depth article of the benefits of such a business model is written by Simone Cicero (http://www.open-electronics.org/the-truth-about-open-source-hardware-business-models/). Would insect food companies benefit from such a business model?
+
+Large, traditional companies are still reluctant to give away information about their products and processes. Insect food companies can make use of this lack of information for consumers who want to be informed about what they eat. Transparent information about the supply chain leading to the final product, easy accessible to the consumer, will contrast against the fuzzy origin of other processed foods. That's how the creative class can be convinced that insect food  is delicious, healthy and environmental friendly.
+
+#####Transparency, the strategic weapon of the supply chain.
+
+The basic idea here is that a consumer should have as much information as possible available about the complete process the final food package went through.
+Therefore, every package should have a unique ID with which the consumer has access to a webpage listing information about exact nutritional value, environmental impact, ingredients and production processes.
+Adding time and geographical stamps to the different stages of the production process and supply chain is the last important feature. It serves 3 goals :
+
+1 Thrust : with time and place that can be verified, a customer will be more likely to thrust the information you provide.
+
+2 Anti fake products : Having to fake a bunch of data for every fake food package will make it more difficult for companies trying to fake your products.
+
+3 Improvement coordination : providing all data to the consumer also means that the company has all information of its production processes centrally available, a huge advantage in an industry that still has room for improvements.
+
+This gives people the ability to fully understand what is inside their food.
+The usage of locally sourced, natural ingredients will be encouraged.
+Moreover, when something is wrong with the procut, a unique ID makes it easy to trace it back. Spillage is also reduced, as exact information about the process parameters can be used for taylored information of how long the food product can be kept fresh.
+
+First, we give a more detailed overview of what kind of information can be useful to attach to the product. Then, possible technologies to implement this are discussed.
+
+The information should consist of 3 big parts.
+
+The first part is a map following the complete trajectory of the food package, from the moment the insects are born to the package ending up in the store.
+Every part of the trajectory can be clicked on and then shows the time , the process done during that time(breeding, transport...) and inputs (the feed for the mealworms...) or process parameters (temperature during transport).
+
+The second part is a table giving the exact nutritional content, comparing that content to the average nutritional content of the mealworm based product and to a substitute product not based on mealworms.
+The third part is a table giving the environmental impact of the product and comparing it to substitute products.
+Both of them involve making a base study of the nutritional content/environmental impact and then adjusting the model with the exact process parameters for every batch.
+
+
+#####Technology : IPv6, blockchain and rfid
+
+Currently, some existing but not yet very known or understanded technologies could help with this information collection and display.
+
+The easiest way to present the information of a package to consumers is to add a QR code to the package. After scanning, consumers will reach the webpage of the package.
+A webpage for every package sounds crazy. Until recently, this would not be possible. However, the new IPv6 internet standard allows for enough unique IP adresses to provide every atom in the universe with its own IP adress.
+
+Another action that would greatly improve the information storage and collection of data is attaching a chip to every package.
+The best would be a chip where every partial process in the supply chain writes information to. Automatically, then it can be tracked that all processes are done and under the right paramters.
+RFID is a promising technology to achieve that. Passive high frequency RFID tags can be written and read multiple times and now store up to 65 kb of information, what can be enough to store the raw process data(http://www.rfidjournal.com/articles/view?1335/2).
+One problem is that the price of RFID tags today starts with a couple of cents but can quickly rise to several dollars with additional functionality(http://www.rfidjournal.com/faq/show?85). A more in depth research of the possibility to use the tags in this field is needed.
+
+A last promising technology for making the entire supply chain more transparent is blockchain. Blockchain is the technology where bitcoin is based on. It provides a way to institute a thrust mechanism between two parties without having the need of a third party to make the transaction thrustworthy.
+It works as follows, explained through bitcoin : Everyone who owns a bitcoin has a public and a private key. When you do a transaction, you need your private key to approve the transaction from one person to another. The public key of the bitcoin is handed over. That transaction of the public key is added to the blockchain. Basically, the blockchain is a long list of all transactions done since the beginning of bitcoin, stored by everyone in the blockchain network. Every 10 minutes, a new block is added to the chain, updating the blockchain of every user with the latest transactions.
+Now, when someone wants to spend the money again, the blockchain will notice that the person already spend the money as his version of the blockchain is not the same as the blockchain of all other users.
+This very short explanation cannot cover the whole working principle and the applications possible because of this working principle. For that, we can refer to the original bitcoin paper by Satoshi Nakamoto (https://bitcoin.org/bitcoin.pdf) and the blockchain book by Melanie Swan (see teambition to reference it).
+
+What is important is that from what you know with the explanation given here, you can start thinking about how it can be used in a transparent supply chain.
+Using a blockchain with a public key attached to every batch of insects resulting in a package of insect food can implement the idea of adding timestamps, thrust and unambiguous information to a supply chain.
+It will be an easy way to control suppliers. With the blockchain publicly available, the company is accountable for the different process steps. Timestamps make sure the process cannot be faked or changed.
+
+How exactly to implement this is a tough question. Right now, still lots of startups are in the developing phase of developing blockchains for other uses than online money.
+What can be done for sure is using a blockchain internally, to make all people involved in the process of making one batch accountable for their process step. Making use of such a high level of internal control and information sharing can then be used as a marketing tool to assure people that the quality standards of the company are very high.
+Even better would be the complete public available blockchain, but this needs more research and raises another question. Is it dangerous to reveal that much information about your processes in public?
+
+Is this dangerous?
+Off course, making it open encourages competition. However, in the beginning of a new industry, having lots of players in the market is good as this will help grow the market. Then, to survive, it is important to become the strongest company that can set the standard (refer to Stephen lu). This model that can be followed by others is good as standard and once they use this standard it will be easier for us to source our products there.
+Also, an important advantage is that you can keep all information, big data. Your competitors can not acquire as much information as you.  With all this data, it will be possible, together with the short life cycle and fast clockspeed, to improve the process very fast and iteratively. This can lead to new opportunities in terms of nutritional content and waste, because nowadays much is done by convention and not yet backed by extensive research.
+
+
+#####reach the consumer
+
+As discussed before, online sales is the most popular medium nowadays. It seems to be that this is the general case for startups. Therefore, companies do not think a lot about how to sell their products and just assume the best way is using the internet.
+However, it should not be forgotten that other channels can make the difference between becoming succesful or not. Having a stand selling your products on festivals, selling in specialized shops, selling in fitness centra or sportsclothing shops when you target sports people... Every company should think about alternative ways to sell in order to pick the best one.
+
+In a later stage, once the product becomes succesful, supermarkets can be targeted.
+*In some cases, products can be jump started by super markets, if we get some supermarket to push the initiative it could greatly improves the initial acceptance, therefore the association with super markets could be very important*
