@@ -84,8 +84,8 @@
 |69|http://www.sx-mealworms.com/e_products/?big_id=10||china, supplier, mealworm, products, food, animal|||||
 |70|http://www.ipsnews.net/2013/07/edible-insect-market-hindered-by-legal-and-cultural-barriers-in-spain/|ARticle about legal problems in Spain|Spain,insects, culture, barriers, legal issues|||||
 |71|http://rt.com/news/188844-belgium-food-insects-products/|Belgium already consuming insects in food|Belgium, mealworms, regulations, law, food, consumption|||||
-|72||||||||
-|71||||||||
+|72|http://growinggeorgia.com/features/2014/05/potential-insect-farmers-bugged-lack-guidelines/| Forum entry about the FDA comments on insects|insects, USA, FDA, food|||||
+|71|http://www.fda.gov/aboutfda/transparency/basics/ucm194879.htm|Official FDA webpage|FDA, USA, insects|||||
 |72||||||||
 |73||||||||
 |74||||||||
