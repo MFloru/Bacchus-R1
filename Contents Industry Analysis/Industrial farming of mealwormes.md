@@ -45,21 +45,62 @@ harvesting mealworms.
 	
 ###improvements through industrialization	
 
-To improve the process of farming mealworms we continue the process done by private farmes.
-The major encancement is done by analying the process steps and then improve it.
-	
-	+farming in many small boxes (picture)
-	+normal distribution of lifecycle (excel file)
-	+cut of the eggs and the puba as well as the beetle (2 videos, agricultural product as refernce)
-	+
-	
-###possible tools to be used
+exemplary improvements for system(plant), process, quality management and digitalization
 
-	+gloves and hygene articles
-	+humidity and tempreture semsor
-	+shaking grids to with different seize to cut off the "bycatch"
+Our goals for the farming process of providing constant superior quality of 
+mealworms while lowering the price. To improve the process of farming mealworms we 
+continue the process done by private farmes.
+The major enhancement is done by analying the process steps and then improve it.
+
+The cycle of mealworms growing from an egg to a to a beetle is statistically determined.
+The larves will not not transform from eggs on a certain time and the pupa from the larve 
+etc. So by farming many eggs some will transform earlier and some later.The optimal time 
+for harvesting them is the 7. or 8. week since the initial farming processstep. Assuming a 
+normal distribution for that process the percentage of bycatch like eggs, pupas and beetles
+is shown in graph XX. 
+
+ To reach our goal of superior quality the bycatch, the bedding and the scratch must be 
+ separated from the product. Home farmer do this process step manually. This step is very 
+ labor-intenst which leads to high costs due to loans even in low cost countries. Secondly
+ the frequency of repeating the same process step is very high. So the manual work is 
+ potentially automatable. A certain quantity of mealworms produced per time justifies the 
+ initiale cost of a purpose-built machine to separate. Techniques for that machines can 
+ be found in the high developed Business described above. There is a high variety of 
+ machines for applications like separating harvest goods from waste.
+ Agricultural machines use the different size of the waste and the product to separate 
+ them.  One application is done by a grid with a different width. Harvested goods were run 
+ over a grid like a conveyor band. The gap between two bars is getting bigger. So in the 
+ first section small parts fall down between two grids. Then the mealworms are bigger and 
+ fall in the next section. The rest that falls of at the end of the machine is also waste.
+ The two exemplary videos show the process for onions.
+ 
+ Due to fact that the harvest of mealworms is a not totally controllable process the risk 
+ of failed harvest must be reduced. One way to do this is to farm in many "fields" separately.
+ So the boxes can be kept. They provide a good tradeoff between a economic amount and 
+fail safe production.
+  To make the factory more economic the density in the room available has to be increased.
+  This can be realized in multiple layers and rows. While the third dimension must be left
+  accessable for the staff. The picture shows a propose for such a layout.
+
+Further improvements of the farming process is a more scientific approach to check the 
+variables of the farming process. The humidity and temperature are crucial variables that 
+have to be controlled and regulated over the hole process. Instead of the food scrats to
+provide the necessary humidity a digital sensor in a control loop with a humidifier is 
+more accurate. Such a system sets up the possibility to evaluate and have early warning 
+for a process out of control.
+
+Hygiene standards in the classic food industries have to be adapted. The legislativ 
+requirements in western countries for the farming of food will force the farming companies
+to set up specific hygiene standards. But moreover the farmers themselve have a interest
+in food safety. 
 	
-	
+###conclusion
+
+The proposed technique have a strong relationship to ones used in the agricultural and 
+food producing business. Some of the techniques transferable while other have to be new
+designed. So even though mealworms are a competitive product they profit from the development 
+done.
+
 	
 	
 
