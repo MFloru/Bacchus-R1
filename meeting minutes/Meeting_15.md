@@ -32,7 +32,7 @@ An idea is to make, next to the complete model, a shorter model highlighting the
 
 * Business Model Canvas => Postponed
 
-Finally, the time has come to make a business model canvas. It can be added in the last part of the report serving as a visualization of the things we recommend a starting company in this field to think about. 
+Finally, the time has come to make a business model canvas. It can be added in the last part of the report serving as a visualization of the things we recommend a starting company in this field to think about.
 
 * Teambition homework:
 * List of meaningful variables to see if our hoped outcomes actually happen:
@@ -47,7 +47,7 @@ Markets: statistics on this market become available; market share and volume.
 
 * Institionalize the accessibility of the last version of the design of the full report by everyone.
 
-* Check of tasks: everybody presents the progress in his or her tasks. 
+* Check of tasks: everybody presents the progress in his or her tasks.
 
 **Tasks**
 
@@ -79,5 +79,4 @@ Markets: statistics on this market become available; market share and volume.
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| |Signed | |Signed | signed|
-
+|Signed |Signed | |Signed | signed|
