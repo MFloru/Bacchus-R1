@@ -26,7 +26,7 @@ Meeting Minutes
 
 **Discussions**
 
-* Point on our progress and adjustments: 
+* Point on our progress and adjustments:
 
 * We should talk about PESTEL somewhere
 
@@ -52,6 +52,4 @@ Meeting Minutes
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| | | |Signed | signed|
-
-
+|Signed | | |Signed | signed|
