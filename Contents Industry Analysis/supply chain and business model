@@ -1,4 +1,6 @@
-*Good but lacks of references maybe -I'll finish to review it later-luch time! -Marie*
+*Very good analysis but it lacks of references for the big first part. Do you have any?*
+*Also, it seems to me there is no advice on what's the best role to play to enter this industry*
+*Apparently you re-wrote a part at the end... I didn't comment on it -Marie*
 
 ###Supply chain
 
@@ -83,16 +85,15 @@ Long term : processing and selling
 
 
 
-
-
 ####Marketing & Supply chain as a strategic weapon
 
 
 #####Transparency
 
 The strategic weapon of the supply chain.
-The highly educated, middle class, young urban population of the creative class in Europe or amerika is our target. They can spend a premium on food that is delicious, healthy and environmental friendly.
+The highly educated, middle class, young urban population of the creative class in Europe or America is our target. They can spend a premium on food that is delicious, healthy and environmental friendly.
 How to prove this? ==> Transparency
+*It's not prove, rather "achieve", isn't it? -Marie*
 
 Attach a chip to each product package. The process parameters that you will show to the consumer of that specific package (accessable via a QR code) :
 
@@ -103,6 +104,7 @@ Then time and transport to end consumer.
 
 Also add information about the processes used (the conceptual idea so people get it but cannot ‘copy’ the machine)
 Also add the places where it has been with gps(makes it more difficult to make fake products and proves that it is locally made).
+*Include possible visits of the farm(s) maybe? -Marie*
 Information about the exact nutritional content needs to be visualized.
 Finally, add all resources used and make a sum of them to show that it is environmentally friendly.
 
@@ -110,6 +112,7 @@ Finally, add all resources used and make a sum of them to show that it is enviro
 This gives people the ability to fully understand what is inside their food. As we will only use natural ingredients they will be able to judge that these ingredients are healthy.
 Also with this ID it becomes possible to warn people when something is wrong with their product and to trace those products back.
 Also it can help us to give more accurate information on how long you can still keep it fresh.
+*But how much is it to implement such a technology? -Marie*
 
 #####Blockchain technology
 
@@ -117,48 +120,53 @@ How to make them believe us?
 Technology can help us in this way.
 
 **MAYBE : put a general description of blockchain in the tech part, and then we see that we have different uses for that.**
+*Very general then, just the global philosophy and principles under it*
 
-We can make some kind of blockchain issued by us but publicly known. Only we can issue it, so this makes it more difficult to make a fake product. When people check their product online, they will allways be able to check the full blockchain, so we can not falsify it.
-Every product package has an id and chip with a blockchain attached to it. The blockchain works in a way that it will only execute the next step if the previous step is done, with a timestamp. This means we cannot cheat and put fake things inside.
+We can make some kind of blockchain issued by us but publicly known. Only us can issue it, so this makes it more difficult to make a fake product. When people check their product online, they will always be able to check the full blockchain, so we can not falsify it.
+Every product package has an ID and chip with a blockchain attached to it. The blockchain works in a way that it will only execute the next step if the previous step is done, with a timestamp. This means we cannot cheat and put fake things inside.
 Timestamps are also a way to control suppliers.
 
 REMARK : actually I am still not sure how exactly blockhain can help us. Do you have some better ideas, do you get the idea I describe here?
 *I agree that adjusting blockchain to our product is really forcing it, but we HAVE to. Maybe we can use blockchain as a way to ensure our transactions online?, payment as bitcoin, or some other applications. The blockchain id in every package was our original idea, I strongly think we have to stay by it*
+*From what I understood, blockchain is useful at any time when you need to trust your product. So it's definitely relevant for the food industry! Just like the ay you presented it: it becomes impossible to cheat customers -Marie*
 
 Is this dangerous?
-Off course, making it open encourages competition. However, in the beginning of a new industry, having lots of players in the market is good as this will help grow the market. Then, to survive, it is important to become the strongest company that can set the standard (refer to Stephen lu). This model that can be followed by others is good as standard and once they use this standard it will be easier for us to source our products there.
+Of course, making it open encourages competition. However, in the beginning of a new industry, having lots of players in the market is good as this will help grow the market. Then, to survive, it is important to become the strongest company that can set the standard (refer to Stephen lu). This model that can be followed by others is good as standard and once they use this standard it will be easier for us to source our products there.
 Also, an important advantage is that you can keep all information, big data. Your competitors can not acquire as much information as you.  With all this data, it will be possible, together with the short life cycle and fast clockspeed, to improve the process very fast and iteratively. This can lead to new opportunities in terms of nutritional content and waste, because nowadays much is done by convention and not yet backed by extensive research.
 
 
-#####reach the consumer
+#####Reach the consumer
 
 As discussed before, online sales is the most popular medium nowadays. It seems to be that this is the general case for startups. Therefore, companies do not think a lot about how to sell their products and just assume the best way is using the internet.
-However, it should not be forgotten that other channels can make the difference between becoming succesful or not. Having a stand selling your products on festivals, selling in specialized shops, selling in fitness centra or sportsclothing shops when you target sports people... Every company should think about alternative ways to sell in order to pick the best one.
+However, it should not be forgotten that other channels can make the difference between becoming succesful or not. Having a stand selling your products on festivals, selling in specialized shops, selling in fitness centers or sportsclothing shops when you target sports people... Every company should think about alternative ways to sell in order to pick the best one.
 
 In a later stage, once the product becomes succesful, supermarkets can be targeted.
-*In some cases, products can be jump started by super markets, if we get some supermarket to push the initiative it could greatly improves the initial acceptance, therefore the association with super markets could be very important*
+*In some cases, products can be jump started by supermarkets, if we get some supermarket to push the initiative it could greatly improves the initial acceptance, therefore the association with super markets could be very important*
+*Take the example of the Dutch Supermarket in Netherlands!-Marie*
 
 
 ####Sourcing & Supply chain : global or local?
-Competition from countries with cheaper labour can become an issue, as the highest cost of producing insects right now is manual work (according to mail with tiny farms+ other sources).
-Also there are already bigger companies in those countries, e.g. haocheng mealworm inc.
+Competition from countries with cheaper labour can become an issue, as the highest cost of producing insects right now is manual work (according to mail with tiny farms+ other sources) *to quote!*.
+Also there are already bigger companies in those countries, e.g. HaoCheng Mealworm Inc. in China
 A strategy could be to start sourcing from them once they become a threat.
 However, 2 facts shield local production in Western countries from this threat : perishability and consumer acceptance.
-/*Remember to point out that most of the cheap labor countries products could not be as high quality or the process could not eb as green
+/*Remember to point out that most of the cheap labor countries products could not be as high quality or the process could not be as green
 
 Acceptance :In this stage only if it is regarded as delicious, healthy, organic, environmental friendly, thrustable, grown in own country.
 Therefore the transparency strategy and local production.
+*To finish writing/make clearer -Marie*
 
 Perishability : part of the food to sell will be fresh food, putting an extra barrier to companies who produce abroad. For mealworm flour in itself this is not a barrier.
+*Yeah, one of the purpose of drying it and converting it into flour is to preserve it longer! -Marie*
 
 For fresh insect based products : very local production :
 Possible to grow them in urban areas or near to urban areas in order to deal with transportation cost and time (maybe the mushroom farming as an example with link to the blue economy, waste!!)
-.
 
 Developing countries also not a target market : less creative class & will not pay a higher price for food. Therefore, not much advantages of a global supply chain. Keep it local!
+*They don't have the same food safety regulations and already eat insects from local markets -Marie*
 
 ####Clockspeed & Innovation
-The life cycle of insects is very short, as mentioned in earlier parts
+The life cycle of insects is very short, as mentioned in earlier parts *give a time, maybe? -Marie*
 This makes the clockspeed of innovation in the growing process very high
 Also goods are fast consumed, so consumers will very fast come back or not.
 Look up more about clockspeed....
@@ -174,7 +182,7 @@ Here we want to present the business model of the ideal insect for food company.
 ####Business model canvas
 The business model canvas will visualize and summarize the ideas we have about organizing your complete supply chain.
 
-I will make 1 canvas for an early stage startup company and one for a later stage company.
+I will make a canvas for an early stage startup company and one for a later stage company.
 
 Do this first or afterwards? Or both?
 Still to do.
@@ -209,8 +217,8 @@ Add something about the ipodia lecture : product life cycle, early stage, settin
 
 After studying the outside forces affecting the business, which we in this report grouped as market, norms, technology and law, a company can start developing a strategy for a successful business.
 However, this is not enough. A successful strategy will soon be followed by competitors. A company will get a competitive advantage when it can deliver the best products, at the fastest rate, the best quality and for the lowest cost.
-Charles fine puts it clear in his clockspeed paper (Charles Fine). Supply chain is a strategic weapon. The model he proposes to think about and design a company is 3D concurrent engineering.
-It is the overlap of 3 disciplines : product (design and architecture) process (technical capabilities and manufacturing system) and supply chain(architecture and the logisitcs and coordination system).
+Charles Fine puts it clear in his clockspeed paper (Charles Fine). Supply chain is a strategic weapon. The model he proposes to think about and design a company is 3D concurrent engineering.
+It is the overlap of 3 disciplines : product (design and architecture) process (technical capabilities and manufacturing system) and supply chain (architecture and the logisitcs and coordination system).
 
 *Add the 3 rings of 3D concurrent engineering here*
 
@@ -248,7 +256,7 @@ Selling and marketing to end consumer
 Production is nowadays clearly a key competitive advantage because the knowledge of breeding insects is not yet fully developed. Doing production in house is the only way to collect all information about processes and to implement continuous improvement.
 However, once production processes are developed and the insect market starts to take off, production with as goal the intermediary product of mealworm flour will endure fierce competition. This both from existing pet food insect companies who want to tap into an additional market or other previous startups who developed their production processes as well. Mealworm flour will become a staple food that competes on price. Once this stage of competition is reached, a company needs to make the choice between staying in production or focussing on processing. If they stay, or they will have to develop the lowest cost processes or they will have to diversify. Diversifying is possible by working on the nutritional content of the flour and producing different kinds of flour meeting the nutritional needs of different market segments.
 
-So far, we assume that production will be done in large factories. Another possibility is distributed production of insects. In third world countries, a minilivestock of insects can improve the livelyhood of people as it provides an additional source of income and food(FAO report p.125). In the West, urban farming is growing popular. Due to space limits in developed cities, nowadays it only supplies 5% of the urban food consumption(Future Directions international http://www.futuredirections.org.au/publications/food-and-water-crises/1406-feeding-the-cities-is-urban-agriculture-the-future-of-food-security.html). Concentrating on species such as insects, who require less space than other animals can be a strategic decision for urban farmers.
+So far, we assume that production will be done in large factories. Another possibility is distributed production of insects. In third world countries, a minilivestock of insects can improve the livelyhood of people as it provides an additional source of income and food (FAO report p.125). In the West, urban farming is growing popular. Due to space limits in developed cities, nowadays it only supplies 5% of the urban food consumption (Future Directions international http://www.futuredirections.org.au/publications/food-and-water-crises/1406-feeding-the-cities-is-urban-agriculture-the-future-of-food-security.html). Concentrating on species such as insects, who require less space than other animals can be a strategic decision for urban farmers.
 
 To help with a choice between traditional big factories and distributed production, we provide a list of advantages and disadvantages.
 
