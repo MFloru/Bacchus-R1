@@ -1,8 +1,8 @@
 *Apparently you re-wrote the Supply chain part at the end... Then almost all my comments on the first version are useless :/ I'll try to transfer the relevant ones in the relevant part, but maybe you can have a look to what I wrote...*
 
-*To other reviewers: jump directly to the second "Supply Chain" part, and when you finish revieing it go up to the "Marketing and supply chain as a strategic weapon" part"*
+*To other reviewers: jump directly to the second "Supply Chain" part, and when you finish revieing it go up to the "Marketing and supply chain as a strategic weapon" part". @matthias: is that the order it shall be presented, by the way? I count on you for the final order*
 
-*Very good analysis although not yet over (there are some parts still to be written it would seem). Also it seems to me there is no final advice on what's the best role to play to enter this industry -Marie*
+*Very good analysis though -some parts have to be finished but it's encouraging. However, it seems to me there is no final advice on what's the best role to play to enter this industry -Marie*
 
 ###Supply chain
 
