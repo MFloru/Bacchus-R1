@@ -1,4 +1,3 @@
-
 ###Supply chain
 
 ####Strategy
@@ -74,6 +73,9 @@ Distributed production :
 
 - High coordination cost : logistics and subcontracts contracts require a substantial effort.
 
+Milk producers already use cooperative models to leverage on distributed production. A look at the Amul model can inspire to implement this for insects(http://www.amul.com/m/about-us).
+
+
 #####Processing into insect products
 Here economies of scale are very important. Only a fully automated process that can process insects continuously is viable in the long term.
 Therefore, sourcing insects from different breeding plants will involve lower risks. The cumulative capacity of different mealworm plants can be needed to suplly a continuous mealworm based food product. Pests breaking out in an insect population is another risk that can be minimized with multiple supply plants. If a pest is breaking out in one plant, there can still be sourced from another plant.
@@ -126,7 +128,7 @@ Large, traditional companies are still reluctant to give away information about 
 #####Transparency, the strategic weapon of the supply chain.
 
 The basic idea here is that a consumer should have as much information as possible available about the complete process the final food package went through.
-Therefore, every package should have a unique ID with which the consumer has access to a webpage listing information about exact nutritional value, environmental impact, ingredients and production processes.
+Therefore, every package should have a unique ID with which the consumer has access to a web page listing information about exact nutritional value, environmental impact, ingredients and production processes.
 Adding time and geographical stamps to the different stages of the production process and supply chain is the last important feature. It serves 3 goals :
 
 1 Thrust : with time and place that can be verified, a customer will be more likely to thrust the information you provide.
@@ -289,14 +291,24 @@ FROM HERE :
 
 OLD VERSION!!!!!!!!!
 
+=======
+
+*Very good analysis though -some parts have to be finished but it's encouraging. However, it seems to me there is no final advice on what's the best role to play to enter this industry -Marie*
+
+indeed, no final advice ;)
+
 
 ###Supply chain
 
 ####Strategy
 3D concurrent engineering : supply chain is a strategic weapon.
+
+*What does "3D concurrent engineering" mean?! Maybe you should add a sentence of 2 to clarify it -Marie =>it was done in the second version apparently :/*
+
 Therefore we need to investigate the following questions :
 
-Vertical integration : where to position you in the supply chain from growing the insects to selling them to customers?
+Vertical integration : where to position you in the supply chain from growing the insects to selling them to customers
+*to get the maximal revenue, is that the purpose? If so we should state it -Marie*?
 
 Marketing : how to use the supply chain process as a strategic weapon in making customers buy your product?
 
@@ -304,6 +316,7 @@ Global supply chain : do we produce and sell globally or locally?
 
 /*I have a doubt whether we are or not an actual company, if we are not then you have to adjust the titles, but if we are then its ok.
 
+*I think we are not but we adress guys who plan to start companies in the edible insects industry -Marie*
 
 Clockspeed : What is the clockspeed of the industry and how does this affect innovation in the industry?
 
@@ -314,50 +327,57 @@ Production of insects
 
 Processing insects into a product
 
-Selling and marketing to endconsumer
+Selling and marketing to end consumer
 
 #####Production (breeding or rearing) of insects
 Big factories, advantages :
 
 1 economies of scale
 
-2control of product safety and nutritional content and collection of all process data to make fast improvements
+2 control of product safety and nutritional content and collection of all process data to make fast improvements
 
-3 in house development of production competencies and capabilities, develoment of optimal and automated production processes.
+*free from pesticides insects \o/ - Marie*
+
+3 in house development of production competencies and capabilities, development of optimal and automated production processes.
 
 
 OR sourcing from small household farms could be possible if everything can be tracked (blockchain technology). In that case the quality can be assured. This is not our focus, however, we want to mention it. What is good about this is that big upfront investments are not needed and that it helps to grow a community who likes to eat insects. This reduces risk in 3 ways at the same time :
 
 1 less financial risk : you con't have to invest in a factory
 
-2 less demand risk : it creates a more loyal customer baser.
+2 less demand risk : it creates a more loyal customer base.
 
-3 more liquidity : costs are more variable as it is easy to stop buying from some people when the demand is low due to the contracts that are small in quantity and duration.
+3 more liquidity : costs are more variable as it is easy to stop buying from some people when the demand is low due to the fact contracts are small in quantity and duration.
 
+*Yes but then it triggers survival problem of of these farms, doesn't it?*
+*I'd advocate a milk cooperative model, with insects farmed in different places and shipped to a same processing factory where there are economies of scale. Of course, this factory checks the farms respect the food safety standards in breeding insects. Then it requires an invested, but that can be shared by farm communities and better amortized -Marie*
 
-Production is nowadays clearly a key competitive advantage because the knowledge of production is still in full development. However, once this is developed, production with as goal the intermediary product of mealworm flour won't stay a competitive advantage. Mealworm flour will become a staple food that can only compete on price. However, then this can be changed by working on the nutritional content of the flour and producing different kinds of flour meeting the nutritional needs of different market segments.
+Production is nowadays clearly a key competitive advantage because the knowledge of production is still in full development. However, once this is developed, production of the intermediary product of mealworm flour won't stay a competitive advantage. Mealworm flour will become a staple food that can only compete on price. However, then this can be changed by working on the nutritional content of the flour and producing different kinds of flour meeting the nutritional needs of different market segments.
+
+*Also, flour producers can diversify themselves making processed products from their flour -Marie*
 
 #####Processing into insect products
 Here economies of scale are very important. Only a fully automated process that can process insects continuously is viable in the long term. Therefore, it will be best to be able to source insects from different breeding plants. If there is for example a pest breaking out in one plant, there can still be sourced from another plant.
 
 A key competitive advantage will be inventing products that have a delicious taste and good appearance. These will be needed to grow the market from almost zero today to a serious alternative for traditional meat.
-#####Selling and marketing to endconsumer
 
-Very related to the endproduct, this last part can create an enormous value if it can make people believe in the products. This will make the difference between being able to ask a relatively high price or having to compete with cheap products, for example frozen burgers.
+#####Selling and marketing to end customer
+
+Very related to the end product, this last part can create an enormous value if it can make people believe in the *safety and taste of the* products. This will make the difference between being able to ask a relatively high price or having to compete with cheap products, for example frozen burgers.
 
 It also includes the channels you choose to sell :
 
 Supermarkets : have a high buyer power but most convenient way to buy food for Europeans and Americans so has to become a sales channel once the mealworm product market becomes big enough. Will require you to deliver high volumes with constant quality, not very suitable for a startup.
 
-Specialized shops : shops specializing in bio- and organic food can be a good base to start selling the products. Typically, products sold there have a higher price, but you will have to proof that the food you sell is healthy/environmental friendly.
+Specialized shops : shops specializing in bio- and organic food can be a good base to start selling the products. Typically, products sold there have a higher price, but you will have to prove that the food you sell is healthy/environmental friendly.
 
 Online : Currently, this is the way most used to sell insects. However, as you will have to make use from external package delivery companies, this has some limitations. In China, delivery of food is normal, but in Europe and the USA not really. Fresh food is almost not possible. An alternative is to set up a delivery system yourself but that is too risky with unsure future sales of the insect based products.
 
-restaurants : Can be an easy way to distribute insects. Also, cooks who like to work with you will express their creativity and find new ways to cook with mealworm flour.
+Restaurants : Can be an easy way to distribute insects. Also, cooks who like to work with you will express their creativity and find new ways to cook with mealworm flour.
 
-festivals-party : Tapping in the event-sector with snacks you sell on festivals or parties is another way to reach the consumer. Moreover, it is a marketing tool where you get paid for. You only have to convince the organizators and can showcase your product to all participants of the party.
+Festivals-party : Tapping in the event-sector with snacks you sell on festivals or parties is another way to reach the consumer. Moreover, it is a marketing tool where you get paid for. You only have to convince the organizators and can showcase your product to all participants of the party.
 
-#####key competitive advantages : recommendation
+#####Key competitive advantages : recommendations
 
 Short term : producing and processing and selling
 
@@ -368,16 +388,16 @@ Long term : processing and selling
 
 
 
-
-
 ####Marketing & Supply chain as a strategic weapon
 
 
 #####Transparency
 
 The strategic weapon of the supply chain.
-The highly educated, middle class, young urban population of the creative class in Europe or amerika is our target. They can spend a premium on food that is delicious, healthy and environmental friendly.
+The highly educated, middle class, young urban population of the creative class in Europe or America is our target. They can spend a premium on food that is delicious, healthy and environmental friendly.
 How to prove this? ==> Transparency
+
+*It's not prove, rather "achieve", isn't it? -Marie*
 
 Attach a chip to each product package. The process parameters that you will show to the consumer of that specific package (accessable via a QR code) :
 
@@ -388,6 +408,9 @@ Then time and transport to end consumer.
 
 Also add information about the processes used (the conceptual idea so people get it but cannot ‘copy’ the machine)
 Also add the places where it has been with gps(makes it more difficult to make fake products and proves that it is locally made).
+
+*Include possible visits of the farm(s) maybe? -Marie*
+
 Information about the exact nutritional content needs to be visualized.
 Finally, add all resources used and make a sum of them to show that it is environmentally friendly.
 
@@ -396,54 +419,71 @@ This gives people the ability to fully understand what is inside their food. As 
 Also with this ID it becomes possible to warn people when something is wrong with their product and to trace those products back.
 Also it can help us to give more accurate information on how long you can still keep it fresh.
 
+*But how much is it to implement such a technology? -Marie*
+
 #####Blockchain technology
 
 How to make them believe us?
 Technology can help us in this way.
 
 **MAYBE : put a general description of blockchain in the tech part, and then we see that we have different uses for that.**
+*Very general then, just the global philosophy and principles under it*
 
-We can make some kind of blockchain issued by us but publicly known. Only we can issue it, so this makes it more difficult to make a fake product. When people check their product online, they will allways be able to check the full blockchain, so we can not falsify it.
-Every product package has an id and chip with a blockchain attached to it. The blockchain works in a way that it will only execute the next step if the previous step is done, with a timestamp. This means we cannot cheat and put fake things inside.
+We can make some kind of blockchain issued by us but publicly known. Only us can issue it, so this makes it more difficult to make a fake product. When people check their product online, they will always be able to check the full blockchain, so we can not falsify it.
+Every product package has an ID and chip with a blockchain attached to it. The blockchain works in a way that it will only execute the next step if the previous step is done, with a timestamp. This means we cannot cheat and put fake things inside.
 Timestamps are also a way to control suppliers.
 
 REMARK : actually I am still not sure how exactly blockhain can help us. Do you have some better ideas, do you get the idea I describe here?
 *I agree that adjusting blockchain to our product is really forcing it, but we HAVE to. Maybe we can use blockchain as a way to ensure our transactions online?, payment as bitcoin, or some other applications. The blockchain id in every package was our original idea, I strongly think we have to stay by it*
 
+*From what I understood, blockchain is useful at any time when you need to trust your product. So it's definitely relevant for the food industry! Just like the ay you presented it: it becomes impossible to cheat customers -Marie*
+
 Is this dangerous?
-Off course, making it open encourages competition. However, in the beginning of a new industry, having lots of players in the market is good as this will help grow the market. Then, to survive, it is important to become the strongest company that can set the standard (refer to Stephen lu). This model that can be followed by others is good as standard and once they use this standard it will be easier for us to source our products there.
+Of course, making it open encourages competition. However, in the beginning of a new industry, having lots of players in the market is good as this will help grow the market. Then, to survive, it is important to become the strongest company that can set the standard (refer to Stephen lu). This model that can be followed by others is good as standard and once they use this standard it will be easier for us to source our products there.
 Also, an important advantage is that you can keep all information, big data. Your competitors can not acquire as much information as you.  With all this data, it will be possible, together with the short life cycle and fast clockspeed, to improve the process very fast and iteratively. This can lead to new opportunities in terms of nutritional content and waste, because nowadays much is done by convention and not yet backed by extensive research.
 
 
-#####reach the consumer
+#####Reach the consumer
 
 As discussed before, online sales is the most popular medium nowadays. It seems to be that this is the general case for startups. Therefore, companies do not think a lot about how to sell their products and just assume the best way is using the internet.
-However, it should not be forgotten that other channels can make the difference between becoming succesful or not. Having a stand selling your products on festivals, selling in specialized shops, selling in fitness centra or sportsclothing shops when you target sports people... Every company should think about alternative ways to sell in order to pick the best one.
+However, it should not be forgotten that other channels can make the difference between becoming succesful or not. Having a stand selling your products on festivals, selling in specialized shops, selling in fitness centers or sportsclothing shops when you target sports people... Every company should think about alternative ways to sell in order to pick the best one.
 
 In a later stage, once the product becomes succesful, supermarkets can be targeted.
-*In some cases, products can be jump started by super markets, if we get some supermarket to push the initiative it could greatly improves the initial acceptance, therefore the association with super markets could be very important*
+*In some cases, products can be jump started by supermarkets, if we get some supermarket to push the initiative it could greatly improves the initial acceptance, therefore the association with super markets could be very important*
+
+*Take the example of the Dutch Supermarket in Netherlands!-Marie*
 
 
 ####Sourcing & Supply chain : global or local?
 Competition from countries with cheaper labour can become an issue, as the highest cost of producing insects right now is manual work (according to mail with tiny farms+ other sources).
-Also there are already bigger companies in those countries, e.g. haocheng mealworm inc.
+
+*to quote!*
+
+Also there are already bigger companies in those countries, e.g. HaoCheng Mealworm Inc. in China
 A strategy could be to start sourcing from them once they become a threat.
 However, 2 facts shield local production in Western countries from this threat : perishability and consumer acceptance.
-/*Remember to point out that most of the cheap labor countries products could not be as high quality or the process could not eb as green
+/*Remember to point out that most of the cheap labor countries products could not be as high quality or the process could not be as green
 
 Acceptance :In this stage only if it is regarded as delicious, healthy, organic, environmental friendly, thrustable, grown in own country.
 Therefore the transparency strategy and local production.
 
+*To finish writing/make clearer -Marie*
+
 Perishability : part of the food to sell will be fresh food, putting an extra barrier to companies who produce abroad. For mealworm flour in itself this is not a barrier.
+
+*Yeah, one of the purpose of drying it and converting it into flour is to preserve it longer! -Marie*
 
 For fresh insect based products : very local production :
 Possible to grow them in urban areas or near to urban areas in order to deal with transportation cost and time (maybe the mushroom farming as an example with link to the blue economy, waste!!)
-.
 
 Developing countries also not a target market : less creative class & will not pay a higher price for food. Therefore, not much advantages of a global supply chain. Keep it local!
 
+*They don't have the same food safety regulations and already eat insects from local markets -Marie*
+
 ####Clockspeed & Innovation
 The life cycle of insects is very short, as mentioned in earlier parts
+*give a time, maybe? -Marie*
+
 This makes the clockspeed of innovation in the growing process very high
 Also goods are fast consumed, so consumers will very fast come back or not.
 Look up more about clockspeed....
@@ -459,7 +499,7 @@ Here we want to present the business model of the ideal insect for food company.
 ####Business model canvas
 The business model canvas will visualize and summarize the ideas we have about organizing your complete supply chain.
 
-I will make 1 canvas for an early stage startup company and one for a later stage company.
+I will make a canvas for an early stage startup company and one for a later stage company.
 
 Do this first or afterwards? Or both?
 Still to do.

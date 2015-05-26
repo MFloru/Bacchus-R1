@@ -1,7 +1,5 @@
 
 
-
-
 ###reference
 	
 	links: 
@@ -16,18 +14,43 @@
 
 ###state of the art
 
-	+ life cycle of mealwormes egg-larve/mealworm-puba-beetle
-	+ describe the cycle of farming mealwormes
-		+desinfection
-	+ 
-	
-	
+The farming of mealworms today is not undiscovered but split up into an industrial use to 
+sell them mainly as pet food e.g. chicken. The other farming method is for home farming, 
+also mainly for pet food. The industrial farming methods are kept as a company 
+secret. The fact that there is no known supply chain
+or machines for the industrial use, makes is very likely that the professional farmes use
+also the home methods. While there is few knowledge about the commercial farming, there
+are many tutorials online how to farm mealworms at home.
+Mealworm is a stage in the life cycle. Starting with an egg, the egg evolves to an Larve 
+which is the mealworm itself. Then the larve turnes into a Pupa. Out of the pupa a beetle 
+hatches.
+
+|stage|**stage 1**|**stage2**|**stage3**|**stage4**|
+|phase|egg|mealworm or larve|pupa|beetle|
+|picture|picture|picture|picture|picture|
+|time|4-19 days|70 days|6-14 days|8-12 weeks|
+
+The home farming is usually done in a small transparent plastic box. The first step is to 
+clean the box. This step includes emptying and disinfection of the box in order to kill 
+any pests and sterilize. The sterilization process is done by home application in a oven. 
+Next is to put a bedding into the the box. The bedding usually consists of chicken feed 
+and oats. After this the mealworm eggs are placed into the box and some food scraps are 
+added. Home farmes usually use carrots, potatoes, celery, squash, and watermelon rinds.
+Primary reason for the food scraps is providing food, but a side effect is the higher 
+humidity in the box necessary for the mealworms.
+After the time to grow the mealworms they are ready to be harvested. The process of 
+harvesting is done manually. The farmers picks the grown mealworms out of the box and 
+separates them from the bedding and scraps. This step is the most work intenst part of
+harvesting mealworms. 	
 	
 ###improvements through industrialization	
+
+To improve the process of farming mealworms we continue the process done by private farmes.
+The major encancement is done by analying the process steps and then improve it.
 	
-	+farming in many small boxes
-	+normal distribution of lifecycle
-	+cut of the eggs and the puba as well as the beetle
+	+farming in many small boxes (picture)
+	+normal distribution of lifecycle (excel file)
+	+cut of the eggs and the puba as well as the beetle (2 videos, agricultural product as refernce)
 	+
 	
 ###possible tools to be used
