@@ -53,4 +53,4 @@ For the video: a link is ok if it is not crucial. Otherwise, put it in a platfor
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| | | |Signed | |
+| | |Signed |Signed | |
