@@ -14,8 +14,6 @@ last_updated: 05/27/2015
 
 Meeting Minutes
 ------
-Meeting Minutes
-------
 *Next meeting: Friday afternoon if we are put all the parts in the report (to be confirmed at 12AM)*
 
 **News**
@@ -28,11 +26,18 @@ We must have sent him our current report and prepared the meeting (cf teambition
 **Discussions**
 
 * Point on our progress and adjustments:
+
 Technology part (Max) -90%?
+
 Intro (Matthias + Melinda) - done?
+
 Market - done + supply chain -done (Matthias)
-Health issues -done, environmental issues -still to be done :/ and acceptance among Westerners -all is done and written except for the Google analysis; order of parts and places of quotes insertion to discuss (Marie)
+
+Health issues -done, environmental issues -still to be done :/ and acceptance among Westerners -all is done and written except 
+for the Google analysis; order of parts and places of quotes insertion to discuss (Marie)
+
 Order of the parts, content of norms and "mealworm flour as a solution"
+
 USA law - done + 5 Porter forces - done + risk analysis (Iker) ?
 
 * Organizing (listing and structiring) our references: how do we do that?
@@ -40,11 +45,17 @@ USA law - done + 5 Porter forces - done + risk analysis (Iker) ?
 * We shall talk about the competitors in the market
 
 * Final small parts (once everything is ready):
+
 PESTEL (?)
+
 animal welfare (?)
+
 will vegs eat insects(?)
+
 investigate other possibilities than flour (snacks,...)
+
 other ideas?
+
 The variables that will show us we are going the right way towards our outcomes (listed in a previous meeting minute)?
 
 **Tasks**
