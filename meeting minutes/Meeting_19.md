@@ -52,6 +52,8 @@ Meeting Minutes
 
 * Marie (?) writes the brief story of our organization and use of GitHub
 
+* Marie asks her roomate to order mealworms (hoping it'll be possible)
+
 * We still have to take a group picture (on a white background) -> next Sunday?
 
 
@@ -64,6 +66,8 @@ Meeting Minutes
 * We shall have to print the reports
 
 * Put the latest GitHub graphs
+
+* Melinda will have to number correctly the pages and make sure the table of contents fits the report
 
 ----------
 
