@@ -3,7 +3,7 @@ layout: post
 title: "Weekly Summary for Bachus"
 tags: [weekly, meeting, Iker, Matthias, Melinda, Marie]
 description: Weekly meeting minutes for the team project.
-last_updated: 05/27/2015
+last_updated: 05/31/2015
 ---
 
 |**Date** |**Meeting time**|**Meeting place**
@@ -14,7 +14,7 @@ last_updated: 05/27/2015
 
 Meeting Minutes
 ------
-*Next meeting: Friday afternoon if we are put all the parts in the report (to be confirmed at 12AM)*
+*Next meeting: Sunday 31st, Building 20 4th floor*
 
 **News**
 
