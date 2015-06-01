@@ -25,3 +25,33 @@ Everybody can add references here when you think they belong in that box : (I al
 **Tiny Farms** : A company in California with the goal of industrializing insects. The numerous articles about them and the personal contact we had with them gave us some insight in the insect industry. Also, they have an open source platform about insect farming, a useful resource for a starting insect farmer.
 
 ** Clockspeed & 3D concurrent Engineering, Fine** : Make sure you design your supply chain strategically or you will never seize a market. This book gives a tool and framework for that.
+
+
+
+*Here are the key references for my parts - Marie*
+
+ACCEPTANCE
+
+Megido, Sablon, Geuens, Brostaux, Alabi, Blecker, et al. (2014). Edible Insects Acceptance by Belgian Consumers: Promising Attitude for Entomophagy Development. Journal of Sensory Studies, Volume 29, Issue 1, pages 14–20.
+
+*and possibly:*
+
+Verbeke, W. (2014). Profiling consumers who are ready to adopt insects as a meat substitute in a Western society. Food Quality and Preference, 147-155.
+
+NUTITIONAL VALUES *possibly, because they already appear in the FAO report -chose only one maybe*
+
+Siemianowska (2013). Larvae of mealworm (Tenebrio molitor L.) as European novel food. Agricultural Sciences, 4, 287-291.
+
+Finke, (2002). Complete nutrient composition of commercially raised invertebrates used as food for insectivores. Zoo Biology, Volume 21, Issue 3, pages 269-285.
+
+ENVIRONMENTAL ISSUES *possibly, because they already appear in the FAO report -chose only one maybe*
+
+Oonincx, & Boer (2012). Environmental Impact of the Production of Mealworms as a Protein Source for Humans – A Life Cycle Assessment. Plos One, Volume 7, issue 12.
+
+Oonincx, Itterbeeck, Heetkamp, v., Brand, Loon, v. d., & Huis, a. v. (2010). An Exploration on Greenhouse Gas and Ammonia Production by Insect Species Suitable for Animal or Human Consumption. Plos One, Volume 5, Issue 12.
+
+LAW
+
+European Parliament. (1997, 01, 27). Regulation (EC) n°258/97 on Novel Food
+
+*And Iker's ones for USA maybe*
