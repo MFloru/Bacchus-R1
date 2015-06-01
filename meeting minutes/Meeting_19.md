@@ -50,7 +50,7 @@ Meeting Minutes
 
 * Marie asks Bruno (and/or Hester) how they printed their report and how to spare the pages so that we can read everything
 
-* Marie (?) writes the brief story of our organization and use of GitHub
+* Marie writes the brief story of our organization and use of GitHub
 
 * Marie asks her roomate to order mealworms (hoping it'll be possible)
 
@@ -65,7 +65,7 @@ Meeting Minutes
 
 * We shall have to print the reports
 
-* Put the latest GitHub graphs
+* Put the latest GitHub graphs (take one on Friday not to have the ugly drop at the beginning of each new week)
 
 * Melinda will have to number correctly the pages and make sure the table of contents fits the report
 
