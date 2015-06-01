@@ -25,7 +25,7 @@ Mealworm is a stage in the life cycle. Starting with an egg, the egg evolves to 
 which is the mealworm itself. Then the larve turnes into a Pupa. Out of the pupa a beetle 
 hatches.
 
-|stage|**stage 1**|**stage2**|**stage3**|**stage4**|
+|**stage**|**stage 1**|**stage2**|**stage3**|**stage4**|
 |phase|egg|mealworm or larve|pupa|beetle|
 |picture|picture|picture|picture|picture|
 |time|4-19 days|70 days|6-14 days|8-12 weeks|
