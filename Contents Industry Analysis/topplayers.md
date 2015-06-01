@@ -28,4 +28,13 @@ https://www.allthingsbugs.com/product/finely-milled-whole-cricket-powder/
 
 
 
-// I placed only foru top players because they are the biggest distributing mealworm (for humans) right now. Please add any you have found!!
+// I placed only four top players because they are the biggest distributing mealworm (for humans) right now. Please add any you have found!!
+*Very good Iker ! I add 3 -2 from France and 1 from Spain (Micronutris should potentially be in the key players):*
+
+In the South of France, a farm called Micronutris started in 2011 the production of crickets and mealworms for human consumption, which are available whole as a snack, but also processed in biscuits, appetizer biscuits, chocolate, and even macaroons! Their products are also used by a chef in a restaurant.
+http://www.micronutris.com/produits.html
+
+Another farm called Dimini Cricket producing a wide range of insects for human consumption opened it doors in the French region of Burgundy in 2014
+http://www.diminicricket.com/
+
+In Spain, Insagri produces crickets and grasshopers for human consumption (whole or in floor).
