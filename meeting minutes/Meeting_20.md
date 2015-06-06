@@ -14,7 +14,7 @@ last_updated: 06/06/2015
 
 Meeting Minutes
 ------
-*Next meeting: ??, Building 20 4th floor*
+*Next meeting: Wednesday June 10th, 9AM Teaching Building 6 (?)*
 
 **Discussions**
 
@@ -31,6 +31,7 @@ Meeting Minutes
 
 **Taking pictures**
 
+* Come nicely dressed!
 
 **Tasks**
 
