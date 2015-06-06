@@ -42,7 +42,7 @@ Meeting Minutes
 
 * Iker clean-up our repo to have it look good for visitors
 
-* Max, Iker and Marie shall write the key references they used for their part in the "Reference Methodology" file. 
+* Max, Iker and Marie shall write the key references they used for their part in the "Reference Methodology" file.
 
 * Matthias choses the key references we shall put in the first pages and writes the story of our methodology and references.
 
@@ -75,4 +75,4 @@ Meeting Minutes
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| | | |Signed | |
+|Signed | | |Signed | |
