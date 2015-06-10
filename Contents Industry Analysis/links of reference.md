@@ -107,31 +107,10 @@
 |87|http://4ento.com/2015/02/02/current-state-legislation-edible-insects-food/||law, europe, |||||
 |88|http://www.flanderstoday.eu/living/insects-approved-human-consumption||law, belgium|||||
 |89|http://www.rentokil.co.uk/pestaurant/||initiative|||||
-|90||||||||
-|91||||||||
-|92||||||||
-|93||||||||
-|94||||||||
-|95||||||||
-|96||||||||
-|97||||||||
-|98||||||||
-
-|74||||||||
-
-|74||||||||
-
-v
-
-
-
-
-
-
-
-
-
-
-
+|90|http://www.insecteurope.com/index.php/eat-insects/list-of-restaurants||example, restaurant|||||
+|91|https://edibug.wordpress.com/where-to-get-bugs/||example, company, order|||||
+|week 13||||||||
+|92|http://www.policyinnovations.org/ideas/innovations/data/00278||risk|||||
+|93|http://www.thenewjournalatyale.com/2013/02/pass-the-grub/||article|||||
 ---
 
