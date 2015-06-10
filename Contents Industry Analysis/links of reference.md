@@ -86,9 +86,42 @@
 |71|http://rt.com/news/188844-belgium-food-insects-products/|Belgium already consuming insects in food|Belgium, mealworms, regulations, law, food, consumption|||||
 |72|http://growinggeorgia.com/features/2014/05/potential-insect-farmers-bugged-lack-guidelines/| Forum entry about the FDA comments on insects|insects, USA, FDA, food|||||
 |71|http://www.fda.gov/aboutfda/transparency/basics/ucm194879.htm|Official FDA webpage|FDA, USA, insects|||||
-|72||||||||
-|73||||||||
+||week 8|||||||
+|72|http://www.health.belgium.be/internet2Prd/groups/public/@public/@shc/documents/ie2divers/19099421.pdf|current practices of insect producing|belgian federal food security agency|2014||||
+|73|http://www.foodlog.nl/artikel/belgie-kweekt-de-eerste-voedselveilige-insecten-ter/||food production, safety|||||
+|74|http://www.landbouwleven.be/artikels/gembloux-agro-bio-tech-lanceert-eerste-productie-eenheid-belgi%C3%AB-voor-insecten||example, food production, belgium|||||
+|75|http://www.bugsworldsolutionfood.com/nl/productie||example, fast food|||||
+|76|http://www.gondola.be/nl/content/insecten-de-supermarkt-carrefour-gaat-nog-verder-75608||news, example, belgium|||||
+|77|http://www.conbuggie.be/||example, company|||||
+|78|http://2014.flandersfoodprojecten.com/stap1/project/10/?p=1||research|||||
+|79|https://www.anses.fr/en/content/insects-food-review-potential-hazards-and-research-needs||law, france|||||
+|80|http://www.entomoveproject.com/blog/2015/04/15/edible-insects-what-does-the-french-report-say/||law, france|||||
+|81|http://entocall.org/next-entocall/||conference|||||
+|week 10||||||||
+|82|http://www.scoop.it/t/protein-alternatives-insects-as-mini-livstock||blog, news|||||
+|83|https://www.foeeurope.org/sites/default/files/publications/foee_hbf_meatatlas_jan2014.pdf||report, research|||||
+|84|http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0051145||journal, production|||||
+|85|http://rt.com/news/188844-belgium-food-insects-products/||news, belgium|||||
+|86|http://www.edibleunique.com||example||||||
+|week 11||||||||
+|87|http://4ento.com/2015/02/02/current-state-legislation-edible-insects-food/||law, europe, |||||
+|88|http://www.flanderstoday.eu/living/insects-approved-human-consumption||law, belgium|||||
+|89|http://www.rentokil.co.uk/pestaurant/||initiative|||||
+|90||||||||
+|91||||||||
+|92||||||||
+|93||||||||
+|94||||||||
+|95||||||||
+|96||||||||
+|97||||||||
+|98||||||||
+
 |74||||||||
+
+|74||||||||
+
+v
 
 
 
