@@ -75,4 +75,4 @@ Meeting Minutes
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-|Signed | | |Signed | |
+|Signed | |Signed |Signed | |
