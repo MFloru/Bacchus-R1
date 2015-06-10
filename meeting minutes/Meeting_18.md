@@ -76,4 +76,4 @@ The variables that will show us we are going the right way towards our outcomes 
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| Signed|Iker | |Signed | |
+| Signed|Iker |Signed |Signed | |
