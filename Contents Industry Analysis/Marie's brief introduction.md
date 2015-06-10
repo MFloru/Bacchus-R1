@@ -1,0 +1,3 @@
+As a French people, Marie Maniglier loves eating tasty food. She is also interested in environmental issues, hence her interest in the topic. 
+After a Scientific French Baccalaureate obtained in June 2010, she attended an intensive preparation in physics and mathematics for the highly competitive entrance exams to the French Grandes Ecoles and eventually got into Centrale Lyon (one of France’s top general engineering school) where she studied for a couple of years. 
+She is now enrolled in the English Master in Management Science and Engineering of the Industrial Engineering Department of Tsinghua University within the framework of a Double-Degree exchange program with her former school. She should graduate next summer 2016.

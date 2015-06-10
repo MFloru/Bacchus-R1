@@ -33,7 +33,7 @@ Intro (Matthias + Melinda) - done?
 
 Market - done + supply chain -done (Matthias)
 
-Health issues -done, environmental issues -still to be done :/ and acceptance among Westerners -all is done and written except 
+Health issues -done, environmental issues -still to be done :/ and acceptance among Westerners -all is done and written except
 for the Google analysis; order of parts and places of quotes insertion to discuss (Marie)
 
 Order of the parts, content of norms and "mealworm flour as a solution"
@@ -76,4 +76,4 @@ The variables that will show us we are going the right way towards our outcomes 
 
 |**Matthias** |**Iker**|**Melinda**|**Marie**|**Max**|
 |----------------|----------------|----------------|----------------|----------------|
-| |Iker | |Signed | |
+| Signed|Iker | |Signed | |
